@@ -1,0 +1,125 @@
+/* 
+  Localizable.strings
+  Oglasnik
+
+  Created by Dushko Cizaloski on 12/12/18.
+  Copyright © 2018 Big Nerd Ranch. All rights reserved.
+*/
+/* Class = "UIButton"; text = "Public Ad"; ObjectID = "QAE-vH-ofG"; */
+"Publish Ad" = "Објави оглас";
+/* Class = "UILabel"; text = "Autos"; ObjectID = "eLA-wa-eEs"; */
+"Autos" = "Возила";
+/* Class = "UILabel"; text = "Mobiles"; ObjectID = "DSf-iO-EZ5"; */
+"Mobiles" = "Мобилни";
+/* Class = "UILabel"; text = "Electronics"; ObjectID = "jPs-t4-Y8u"; */
+"Electronics" = "Електроника";
+/* Class = "UILabel"; text = "Real Estates"; ObjectID = "tT5-hH-n7A"; */
+"Real Estates" = "Недвижнини";
+/* Class = "UILabel"; text = "Pets"; ObjectID = "sSv-2Q-Cmi"; */
+"Pets" = "Миленичиња";
+/* Class = "UILabel"; text = "Jobs"; ObjectID = "QJb-am-AEs"; */
+"Jobs" = "Вработување";
+/* Class = "UILabel"; text = "Events"; ObjectID = "b6V-Zp-t4l"; */
+"Events" = "Настани";
+/* Class = "UILabel"; text = "All Ads"; ObjectID = "YbT-6d-xKm"; */
+"All Ads" = "Сите Огласи";
+/* Class = "UINavigationItem"; text="MenuLang";  */
+//change button from english to macedonian
+"MenuLang" = "macedonian_flag_language";
+//Edit Add
+/* Class = "UIButton"; text = "Public Ad"; ObjectID = "gcX-fE-tLp"; */
+"Publish Listing" = "Објави Листа огласи";
+"nav_title_bilbord" = "Билборд";
+"Title of advertisment" = "Наслов за огласот";
+"Categories" = "Категорија";
+"AdType" = "Тип на оглас";
+"BrandModel" = "Модел";
+"Fuel" = "Гориво";
+"Color" = "Боја";
+"Consumption of L/100km" = "Потрошувачка на Л/100км";
+"Year of product" = "Година на производство";
+"Spent mails" = "Поминати километри";
+"Gearbox" = "Менувач";
+"Area" = "Простор";
+"Number of Rooms" = "Број на соби";
+"Floor" = "Спрат";
+"Settlement" = "Населба";
+"Number of Floors" = "Број на спратови";
+"Local" = "Локал";
+"Begin" = "Почеток";
+"End" = "Крај";
+"FB Event" = "ФБ Настан";
+"Price" = "Цена";
+"Valute" = "Валута";
+"Attach a photo our recommendation is to attach at least 3 images for the advertisment to get a more appeling look" = "Прикачи слика. Наша препорака е да прикачите 3 слики за настанот да добие попримамлив изглед.";
+"Description" = "Опис";
+"Choose Image" = "Избери слика";
+"Quantity" = "Количина";
+"Old/New" = "Старо/Ново";
+"Region" = "Регион";
+"Video" = "Видео";
+"FullName" = "Име и Презиме";
+"Phone number" = "Телефонски број";
+"User Emails" = "Кориснички емаил";
+"Your facebook link" = "Ваш фајсбук линк";
+"Conditional" = "Се сложувам со";
+"ConditionalTerms" = "условите за користење";
+"Contact Us" = "Исконтактирајте не";
+"Confirm" = "Потврди";
+"Contact us and we will answer you as soon as we can" = "Исконтактирајте не и ние ке ви одговориме што е можно побрзо";
+"Enter your message to us" = "Внесете ја вашата порака до нас";
+"Sent" = "Испрати";
+//LeftSideMenu
+"Home" = "Дома";
+"Publish Ad" = "Додади Оглас";
+"All Ads" = "Сите Огласи";
+"Events" = "Настани";
+"My Ads" = "Мои Огласи";
+"Favorite Ads" = "Омилени Огласи";
+"Options" = "Опции";
+"Contact Us" = "Контактирајтене";
+"Login" = "Логирање";
+"Registration" = "Регистрација";
+"Desing by Dushko Cizaloski -> Best Net Studio" = "Дизајнирано од Душко Цизалоски -> Бест Нет Студио";
+//MyProfileTableView
+"User Bill" = "Кориничка Сметка";
+"Change Password" = "Промени Лозинка";
+//ChangeProfilePassword
+" Change Password" = "Промени Лозинка";
+" Old Password" = "Стара Лозинка";
+" New Password" = "Нова Лозинка";
+"Confirm Password" = "Потврди Лозинка";
+"Change" = "Промени";
+"Enter old password" = "Внеси стара лозинка";
+"Enter new password" = "Внеси нова лозинка";
+"Enter confirm password" = "Внеси потврдна лозинка";
+"BilbordMk" = "БилбордМк";
+//ProfileBillViewController
+"My Profile" = "Мои Профил";
+"Hello" = "Здраво";
+"You are last seen before" = "Последно сте се најавиле пред";
+"Full Name" = "Цело име и презиме";
+"E-Mail" = "Е-Маил";
+"Phone" = "Телефон";
+"Choose your Profile Image" = "Изберете ваша Профилна Слика";
+" Choose Image " = " Промени Слика ";
+" Change " = " Промени ";
+"For changing on e-mail please" = "За промена на е-маил ве молиме";
+"contact us" = "Контактирајтене";
+//LoginFormViewController
+"UserAccountLabel" = "Кориснички Профил";
+"userNameLabel" = "Корисничко Име";
+"passwordLabel" = "Лозинка";
+"loginButton" = "Логирај се";
+"registartionUserButton" = "Ве молиме регистрација тука!";
+"forgottUserPasswordButton" = "Заборавена Лозинка!";
+"userNameTextField" = "Внесете го вашиот е-маил или корисничо име";
+"userPasswordTextField" = "Внесете ја вашата лозинка";
+//RegistrationFormViewController
+"FirstNameTextField" = "Внесете Цело Име и Презиме";
+"phoneTextField" = "Внесете Телефон";
+"mailTextFIeld" = "Внесете Е-Маил";
+"paswordTextField" = "Внесете Лозинка";
+"confirmPasswordTextField" = "Внесете Потврдна Лозинка";
+"Registrated" = "Регистрација";
+"MakeRegistration" = "НАПРАВЕТЕ РЕГИСТРАЦИЈА";

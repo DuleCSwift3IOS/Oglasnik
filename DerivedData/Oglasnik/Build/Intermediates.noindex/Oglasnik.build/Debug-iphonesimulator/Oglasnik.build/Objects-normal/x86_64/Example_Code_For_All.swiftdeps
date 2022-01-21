@@ -1,0 +1,850 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["So7UIImageC", ""]
+- ["So7UILabelC", ""]
+- ["So11UIImageViewC", ""]
+- ["So11UIStackViewC", ""]
+- ["So7UIImageC", "ResizeImage"]
+- ["So7UILabelC", "setCornerRadiusbutton"]
+- ["So7UILabelC", "set"]
+- ["So11UIImageViewC", "setCornerRadiusImageView"]
+- ["So11UIStackViewC", "setCornerRadiusStackView"]
+- ["So7UILabelC", "halfTextColorChange"]
+provides-dynamic-lookup:
+- "ResizeImage"
+- "halfTextColorChange"
+- "set"
+- "setCornerRadiusImageView"
+- "setCornerRadiusStackView"
+- "setCornerRadiusbutton"
+depends-top-level:
+- !private "*"
+- !private "/"
+- !private ">"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "CGRect"
+- "CGSize"
+- "CastingPrecedence"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- !private "NSAttributedString"
+- !private "NSMutableAttributedString"
+- !private "NSString"
+- !private "NSTextAttachment"
+- "String"
+- !private "UIColor"
+- !private "UIGraphicsBeginImageContextWithOptions"
+- !private "UIGraphicsEndImageContext"
+- !private "UIGraphicsGetImageFromCurrentImageContext"
+- "UIImage"
+- "UIImageView"
+- "UILabel"
+- "UIStackView"
+depends-member:
+- !private ["So7CALayerC", "cornerRadius"]
+- !private ["So15CALayerDelegateP", "CGRect"]
+- !private ["So15CALayerDelegateP", "NSAttributedString"]
+- !private ["So15CALayerDelegateP", "NSMutableAttributedString"]
+- !private ["So15CALayerDelegateP", "NSTextAttachment"]
+- !private ["So15CALayerDelegateP", "UIColor"]
+- !private ["So15CALayerDelegateP", "attributedText"]
+- !private ["So15CALayerDelegateP", "clipsToBounds"]
+- !private ["So15CALayerDelegateP", "font"]
+- !private ["So15CALayerDelegateP", "frame"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So13CAMediaTimingP", "cornerRadius"]
+- !private ["So6CGRectV", "init"]
+- !private ["So6CGRectV", "size"]
+- !private ["So6CGSizeV", "height"]
+- !private ["So6CGSizeV", "init"]
+- !private ["So6CGSizeV", "width"]
+- !private ["s7CVarArgP", "CGRect"]
+- !private ["s7CVarArgP", "CGSize"]
+- !private ["s7CVarArgP", "Key"]
+- !private ["s7CVarArgP", "NSAttributedString"]
+- !private ["s7CVarArgP", "NSMutableAttributedString"]
+- !private ["s7CVarArgP", "NSTextAttachment"]
+- !private ["s7CVarArgP", "UIColor"]
+- !private ["s7CVarArgP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["s7CVarArgP", "UIGraphicsEndImageContext"]
+- !private ["s7CVarArgP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["s7CVarArgP", "addAttribute"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "attributedText"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "clipsToBounds"]
+- !private ["s7CVarArgP", "cornerRadius"]
+- !private ["s7CVarArgP", "draw"]
+- !private ["s7CVarArgP", "font"]
+- !private ["s7CVarArgP", "frame"]
+- !private ["s7CVarArgP", "image"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "range"]
+- !private ["s7CVarArgP", "red"]
+- !private ["s7CVarArgP", "size"]
+- !private ["s28CustomDebugStringConvertibleP", "CGRect"]
+- !private ["s28CustomDebugStringConvertibleP", "CGSize"]
+- !private ["s28CustomDebugStringConvertibleP", "Key"]
+- !private ["s28CustomDebugStringConvertibleP", "NSAttributedString"]
+- !private ["s28CustomDebugStringConvertibleP", "NSMutableAttributedString"]
+- !private ["s28CustomDebugStringConvertibleP", "NSTextAttachment"]
+- !private ["s28CustomDebugStringConvertibleP", "UIColor"]
+- !private ["s28CustomDebugStringConvertibleP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["s28CustomDebugStringConvertibleP", "UIGraphicsEndImageContext"]
+- !private ["s28CustomDebugStringConvertibleP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["s28CustomDebugStringConvertibleP", "addAttribute"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "attributedText"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "clipsToBounds"]
+- !private ["s28CustomDebugStringConvertibleP", "cornerRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "draw"]
+- !private ["s28CustomDebugStringConvertibleP", "font"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "range"]
+- !private ["s28CustomDebugStringConvertibleP", "red"]
+- !private ["s28CustomDebugStringConvertibleP", "size"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- !private ["s17CustomReflectableP", "height"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "size"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s23CustomStringConvertibleP", "CGRect"]
+- !private ["s23CustomStringConvertibleP", "CGSize"]
+- !private ["s23CustomStringConvertibleP", "Key"]
+- !private ["s23CustomStringConvertibleP", "NSAttributedString"]
+- !private ["s23CustomStringConvertibleP", "NSMutableAttributedString"]
+- !private ["s23CustomStringConvertibleP", "NSTextAttachment"]
+- !private ["s23CustomStringConvertibleP", "UIColor"]
+- !private ["s23CustomStringConvertibleP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["s23CustomStringConvertibleP", "UIGraphicsEndImageContext"]
+- !private ["s23CustomStringConvertibleP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["s23CustomStringConvertibleP", "addAttribute"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "attributedText"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "clipsToBounds"]
+- !private ["s23CustomStringConvertibleP", "cornerRadius"]
+- !private ["s23CustomStringConvertibleP", "draw"]
+- !private ["s23CustomStringConvertibleP", "font"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "range"]
+- !private ["s23CustomStringConvertibleP", "red"]
+- !private ["s23CustomStringConvertibleP", "size"]
+- !private ["Se", "height"]
+- !private ["Se", "init"]
+- !private ["Se", "size"]
+- !private ["Se", "width"]
+- !private ["SE", "height"]
+- !private ["SE", "init"]
+- !private ["SE", "size"]
+- !private ["SE", "width"]
+- !private ["SQ", "CGRect"]
+- !private ["SQ", "CGSize"]
+- !private ["SQ", "Key"]
+- !private ["SQ", "NSAttributedString"]
+- !private ["SQ", "NSMutableAttributedString"]
+- !private ["SQ", "NSTextAttachment"]
+- !private ["SQ", "UIColor"]
+- !private ["SQ", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["SQ", "UIGraphicsEndImageContext"]
+- !private ["SQ", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["SQ", "addAttribute"]
+- !private ["SQ", "append"]
+- !private ["SQ", "attributedText"]
+- !private ["SQ", "bounds"]
+- !private ["SQ", "clipsToBounds"]
+- !private ["SQ", "cornerRadius"]
+- !private ["SQ", "draw"]
+- !private ["SQ", "font"]
+- !private ["SQ", "foregroundColor"]
+- !private ["SQ", "frame"]
+- !private ["SQ", "height"]
+- !private ["SQ", "image"]
+- !private ["SQ", "init"]
+- !private ["SQ", "layer"]
+- !private ["SQ", "range"]
+- !private ["SQ", "red"]
+- !private ["SQ", "size"]
+- !private ["SQ", "width"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "range"]
+- !private ["s26ExpressibleByStringLiteralP", "range"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "range"]
+- !private ["SH", "CGRect"]
+- !private ["SH", "CGSize"]
+- !private ["SH", "Key"]
+- !private ["SH", "NSAttributedString"]
+- !private ["SH", "NSMutableAttributedString"]
+- !private ["SH", "NSTextAttachment"]
+- !private ["SH", "UIColor"]
+- !private ["SH", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["SH", "UIGraphicsEndImageContext"]
+- !private ["SH", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["SH", "addAttribute"]
+- !private ["SH", "append"]
+- !private ["SH", "attributedText"]
+- !private ["SH", "bounds"]
+- !private ["SH", "clipsToBounds"]
+- !private ["SH", "cornerRadius"]
+- !private ["SH", "draw"]
+- !private ["SH", "font"]
+- !private ["SH", "foregroundColor"]
+- !private ["SH", "frame"]
+- !private ["SH", "image"]
+- !private ["SH", "init"]
+- !private ["SH", "layer"]
+- !private ["SH", "range"]
+- !private ["SH", "red"]
+- !private ["SH", "size"]
+- !private ["So21NSAttributedStringKeya", "font"]
+- !private ["So21NSAttributedStringKeya", "foregroundColor"]
+- !private ["10Kingfisher0A10CompatibleP", "CGRect"]
+- !private ["10Kingfisher0A10CompatibleP", "CGSize"]
+- !private ["10Kingfisher0A10CompatibleP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["10Kingfisher0A10CompatibleP", "UIGraphicsEndImageContext"]
+- !private ["10Kingfisher0A10CompatibleP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["10Kingfisher0A10CompatibleP", "clipsToBounds"]
+- !private ["10Kingfisher0A10CompatibleP", "draw"]
+- !private ["10Kingfisher0A10CompatibleP", "frame"]
+- !private ["10Kingfisher0A10CompatibleP", "height"]
+- !private ["10Kingfisher0A10CompatibleP", "init"]
+- !private ["10Kingfisher0A10CompatibleP", "layer"]
+- !private ["10Kingfisher0A10CompatibleP", "size"]
+- !private ["10Kingfisher0A10CompatibleP", "width"]
+- !private ["So18NSAttributedStringC", "Key"]
+- !private ["So18NSAttributedStringC", "addAttribute"]
+- !private ["So18NSAttributedStringC", "append"]
+- !private ["So18NSAttributedStringC", "init"]
+- !private ["So8NSCodingP", "CGRect"]
+- !private ["So8NSCodingP", "CGSize"]
+- !private ["So8NSCodingP", "Key"]
+- !private ["So8NSCodingP", "NSAttributedString"]
+- !private ["So8NSCodingP", "NSMutableAttributedString"]
+- !private ["So8NSCodingP", "NSTextAttachment"]
+- !private ["So8NSCodingP", "UIColor"]
+- !private ["So8NSCodingP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["So8NSCodingP", "UIGraphicsEndImageContext"]
+- !private ["So8NSCodingP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So8NSCodingP", "addAttribute"]
+- !private ["So8NSCodingP", "append"]
+- !private ["So8NSCodingP", "attributedText"]
+- !private ["So8NSCodingP", "bounds"]
+- !private ["So8NSCodingP", "clipsToBounds"]
+- !private ["So8NSCodingP", "cornerRadius"]
+- !private ["So8NSCodingP", "draw"]
+- !private ["So8NSCodingP", "font"]
+- !private ["So8NSCodingP", "frame"]
+- !private ["So8NSCodingP", "image"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "range"]
+- !private ["So8NSCodingP", "red"]
+- !private ["So8NSCodingP", "size"]
+- !private ["So9NSCopyingP", "Key"]
+- !private ["So9NSCopyingP", "addAttribute"]
+- !private ["So9NSCopyingP", "append"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "range"]
+- !private ["So9NSCopyingP", "red"]
+- !private ["So21NSItemProviderReadingP", "CGRect"]
+- !private ["So21NSItemProviderReadingP", "CGSize"]
+- !private ["So21NSItemProviderReadingP", "Key"]
+- !private ["So21NSItemProviderReadingP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["So21NSItemProviderReadingP", "UIGraphicsEndImageContext"]
+- !private ["So21NSItemProviderReadingP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So21NSItemProviderReadingP", "addAttribute"]
+- !private ["So21NSItemProviderReadingP", "append"]
+- !private ["So21NSItemProviderReadingP", "draw"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderReadingP", "range"]
+- !private ["So21NSItemProviderReadingP", "red"]
+- !private ["So21NSItemProviderReadingP", "size"]
+- !private ["So21NSItemProviderWritingP", "CGRect"]
+- !private ["So21NSItemProviderWritingP", "CGSize"]
+- !private ["So21NSItemProviderWritingP", "Key"]
+- !private ["So21NSItemProviderWritingP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["So21NSItemProviderWritingP", "UIGraphicsEndImageContext"]
+- !private ["So21NSItemProviderWritingP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So21NSItemProviderWritingP", "addAttribute"]
+- !private ["So21NSItemProviderWritingP", "append"]
+- !private ["So21NSItemProviderWritingP", "draw"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So21NSItemProviderWritingP", "range"]
+- !private ["So21NSItemProviderWritingP", "red"]
+- !private ["So21NSItemProviderWritingP", "size"]
+- !private ["So25NSMutableAttributedStringC", "addAttribute"]
+- !private ["So25NSMutableAttributedStringC", "append"]
+- !private ["So25NSMutableAttributedStringC", "init"]
+- !private ["So16NSMutableCopyingP", "Key"]
+- !private ["So16NSMutableCopyingP", "addAttribute"]
+- !private ["So16NSMutableCopyingP", "append"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSMutableCopyingP", "range"]
+- !private ["So8NSObjectC", "CGRect"]
+- ["So8NSObjectC", "CGSize"]
+- !private ["So8NSObjectC", "Key"]
+- !private ["So8NSObjectC", "NSAttributedString"]
+- !private ["So8NSObjectC", "NSMutableAttributedString"]
+- !private ["So8NSObjectC", "NSString"]
+- !private ["So8NSObjectC", "NSTextAttachment"]
+- ["So8NSObjectC", "ResizeImage"]
+- ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "UIColor"]
+- !private ["So8NSObjectC", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["So8NSObjectC", "UIGraphicsEndImageContext"]
+- !private ["So8NSObjectC", "UIGraphicsGetImageFromCurrentImageContext"]
+- ["So8NSObjectC", "UIImage"]
+- !private ["So8NSObjectC", "addAttribute"]
+- !private ["So8NSObjectC", "append"]
+- !private ["So8NSObjectC", "attributedText"]
+- !private ["So8NSObjectC", "bounds"]
+- !private ["So8NSObjectC", "clipsToBounds"]
+- !private ["So8NSObjectC", "cornerRadius"]
+- !private ["So8NSObjectC", "draw"]
+- !private ["So8NSObjectC", "font"]
+- !private ["So8NSObjectC", "frame"]
+- ["So8NSObjectC", "halfTextColorChange"]
+- !private ["So8NSObjectC", "image"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "layer"]
+- !private ["So8NSObjectC", "range"]
+- !private ["So8NSObjectC", "red"]
+- ["So8NSObjectC", "set"]
+- ["So8NSObjectC", "setCornerRadiusImageView"]
+- ["So8NSObjectC", "setCornerRadiusStackView"]
+- ["So8NSObjectC", "setCornerRadiusbutton"]
+- !private ["So8NSObjectC", "size"]
+- !private ["So8NSObjectP", "CGRect"]
+- !private ["So8NSObjectP", "CGSize"]
+- !private ["So8NSObjectP", "Key"]
+- !private ["So8NSObjectP", "NSAttributedString"]
+- !private ["So8NSObjectP", "NSMutableAttributedString"]
+- !private ["So8NSObjectP", "NSTextAttachment"]
+- !private ["So8NSObjectP", "UIColor"]
+- !private ["So8NSObjectP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["So8NSObjectP", "UIGraphicsEndImageContext"]
+- !private ["So8NSObjectP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So8NSObjectP", "addAttribute"]
+- !private ["So8NSObjectP", "append"]
+- !private ["So8NSObjectP", "attributedText"]
+- !private ["So8NSObjectP", "bounds"]
+- !private ["So8NSObjectP", "clipsToBounds"]
+- !private ["So8NSObjectP", "cornerRadius"]
+- !private ["So8NSObjectP", "draw"]
+- !private ["So8NSObjectP", "font"]
+- !private ["So8NSObjectP", "frame"]
+- !private ["So8NSObjectP", "image"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "layer"]
+- !private ["So8NSObjectP", "range"]
+- !private ["So8NSObjectP", "red"]
+- !private ["So8NSObjectP", "size"]
+- !private ["So14NSSecureCodingP", "CGRect"]
+- !private ["So14NSSecureCodingP", "CGSize"]
+- !private ["So14NSSecureCodingP", "Key"]
+- !private ["So14NSSecureCodingP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["So14NSSecureCodingP", "UIGraphicsEndImageContext"]
+- !private ["So14NSSecureCodingP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So14NSSecureCodingP", "addAttribute"]
+- !private ["So14NSSecureCodingP", "append"]
+- !private ["So14NSSecureCodingP", "bounds"]
+- !private ["So14NSSecureCodingP", "cornerRadius"]
+- !private ["So14NSSecureCodingP", "draw"]
+- !private ["So14NSSecureCodingP", "image"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "range"]
+- !private ["So14NSSecureCodingP", "red"]
+- !private ["So14NSSecureCodingP", "size"]
+- !private ["So8NSStringC", "range"]
+- !private ["So16NSTextAttachmentC", "bounds"]
+- !private ["So16NSTextAttachmentC", "image"]
+- !private ["So16NSTextAttachmentC", "init"]
+- !private ["So25NSTextAttachmentContainerP", "bounds"]
+- !private ["So25NSTextAttachmentContainerP", "image"]
+- !private ["So25NSTextAttachmentContainerP", "init"]
+- !private ["10Kingfisher11PlaceholderP", "CGRect"]
+- !private ["10Kingfisher11PlaceholderP", "CGSize"]
+- !private ["10Kingfisher11PlaceholderP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["10Kingfisher11PlaceholderP", "UIGraphicsEndImageContext"]
+- !private ["10Kingfisher11PlaceholderP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["10Kingfisher11PlaceholderP", "draw"]
+- !private ["10Kingfisher11PlaceholderP", "size"]
+- !private ["SY", "font"]
+- !private ["SY", "foregroundColor"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "bounds"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "clipsToBounds"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "frame"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "image"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "CGRect"]
+- !private ["So29UIAccessibilityIdentificationP", "CGSize"]
+- !private ["So29UIAccessibilityIdentificationP", "NSAttributedString"]
+- !private ["So29UIAccessibilityIdentificationP", "NSMutableAttributedString"]
+- !private ["So29UIAccessibilityIdentificationP", "NSTextAttachment"]
+- !private ["So29UIAccessibilityIdentificationP", "UIColor"]
+- !private ["So29UIAccessibilityIdentificationP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["So29UIAccessibilityIdentificationP", "UIGraphicsEndImageContext"]
+- !private ["So29UIAccessibilityIdentificationP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So29UIAccessibilityIdentificationP", "attributedText"]
+- !private ["So29UIAccessibilityIdentificationP", "clipsToBounds"]
+- !private ["So29UIAccessibilityIdentificationP", "draw"]
+- !private ["So29UIAccessibilityIdentificationP", "font"]
+- !private ["So29UIAccessibilityIdentificationP", "frame"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "size"]
+- !private ["So12UIAppearanceP", "CGRect"]
+- !private ["So12UIAppearanceP", "NSAttributedString"]
+- !private ["So12UIAppearanceP", "NSMutableAttributedString"]
+- !private ["So12UIAppearanceP", "NSTextAttachment"]
+- !private ["So12UIAppearanceP", "UIColor"]
+- !private ["So12UIAppearanceP", "attributedText"]
+- !private ["So12UIAppearanceP", "clipsToBounds"]
+- !private ["So12UIAppearanceP", "font"]
+- !private ["So12UIAppearanceP", "frame"]
+- !private ["So12UIAppearanceP", "layer"]
+- !private ["So21UIAppearanceContainerP", "CGRect"]
+- !private ["So21UIAppearanceContainerP", "NSAttributedString"]
+- !private ["So21UIAppearanceContainerP", "NSMutableAttributedString"]
+- !private ["So21UIAppearanceContainerP", "NSTextAttachment"]
+- !private ["So21UIAppearanceContainerP", "UIColor"]
+- !private ["So21UIAppearanceContainerP", "attributedText"]
+- !private ["So21UIAppearanceContainerP", "clipsToBounds"]
+- !private ["So21UIAppearanceContainerP", "font"]
+- !private ["So21UIAppearanceContainerP", "frame"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So7UIColorC", "red"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "CGRect"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "NSAttributedString"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "NSMutableAttributedString"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "NSTextAttachment"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "UIColor"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "attributedText"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "clipsToBounds"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "font"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "frame"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "layer"]
+- !private ["So17UICoordinateSpaceP", "CGRect"]
+- !private ["So17UICoordinateSpaceP", "NSAttributedString"]
+- !private ["So17UICoordinateSpaceP", "NSMutableAttributedString"]
+- !private ["So17UICoordinateSpaceP", "NSTextAttachment"]
+- !private ["So17UICoordinateSpaceP", "UIColor"]
+- !private ["So17UICoordinateSpaceP", "attributedText"]
+- !private ["So17UICoordinateSpaceP", "clipsToBounds"]
+- !private ["So17UICoordinateSpaceP", "font"]
+- !private ["So17UICoordinateSpaceP", "frame"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So13UIDynamicItemP", "CGRect"]
+- !private ["So13UIDynamicItemP", "NSAttributedString"]
+- !private ["So13UIDynamicItemP", "NSMutableAttributedString"]
+- !private ["So13UIDynamicItemP", "NSTextAttachment"]
+- !private ["So13UIDynamicItemP", "UIColor"]
+- !private ["So13UIDynamicItemP", "attributedText"]
+- !private ["So13UIDynamicItemP", "clipsToBounds"]
+- !private ["So13UIDynamicItemP", "font"]
+- !private ["So13UIDynamicItemP", "frame"]
+- !private ["So13UIDynamicItemP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "CGRect"]
+- !private ["So18UIFocusEnvironmentP", "NSAttributedString"]
+- !private ["So18UIFocusEnvironmentP", "NSMutableAttributedString"]
+- !private ["So18UIFocusEnvironmentP", "NSTextAttachment"]
+- !private ["So18UIFocusEnvironmentP", "UIColor"]
+- !private ["So18UIFocusEnvironmentP", "attributedText"]
+- !private ["So18UIFocusEnvironmentP", "clipsToBounds"]
+- !private ["So18UIFocusEnvironmentP", "font"]
+- !private ["So18UIFocusEnvironmentP", "frame"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So11UIFocusItemP", "CGRect"]
+- !private ["So11UIFocusItemP", "NSAttributedString"]
+- !private ["So11UIFocusItemP", "NSMutableAttributedString"]
+- !private ["So11UIFocusItemP", "NSTextAttachment"]
+- !private ["So11UIFocusItemP", "UIColor"]
+- !private ["So11UIFocusItemP", "attributedText"]
+- !private ["So11UIFocusItemP", "clipsToBounds"]
+- !private ["So11UIFocusItemP", "font"]
+- !private ["So11UIFocusItemP", "frame"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So20UIFocusItemContainerP", "CGRect"]
+- !private ["So20UIFocusItemContainerP", "NSAttributedString"]
+- !private ["So20UIFocusItemContainerP", "NSMutableAttributedString"]
+- !private ["So20UIFocusItemContainerP", "NSTextAttachment"]
+- !private ["So20UIFocusItemContainerP", "UIColor"]
+- !private ["So20UIFocusItemContainerP", "attributedText"]
+- !private ["So20UIFocusItemContainerP", "clipsToBounds"]
+- !private ["So20UIFocusItemContainerP", "font"]
+- !private ["So20UIFocusItemContainerP", "frame"]
+- !private ["So20UIFocusItemContainerP", "layer"]
+- !private ["So7UIImageC", "CGRect"]
+- ["So7UIImageC", "CGSize"]
+- ["So7UIImageC", "ResizeImage"]
+- !private ["So7UIImageC", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["So7UIImageC", "UIGraphicsEndImageContext"]
+- !private ["So7UIImageC", "UIGraphicsGetImageFromCurrentImageContext"]
+- ["So7UIImageC", "UIImage"]
+- !private ["So7UIImageC", "draw"]
+- !private ["So7UIImageC", "size"]
+- !private ["So11UIImageViewC", "clipsToBounds"]
+- !private ["So11UIImageViewC", "frame"]
+- !private ["So11UIImageViewC", "layer"]
+- ["So11UIImageViewC", "setCornerRadiusImageView"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "CGRect"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "CGSize"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "UIGraphicsEndImageContext"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "draw"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "size"]
+- !private ["So7UILabelC", "CGRect"]
+- !private ["So7UILabelC", "NSAttributedString"]
+- !private ["So7UILabelC", "NSMutableAttributedString"]
+- !private ["So7UILabelC", "NSString"]
+- !private ["So7UILabelC", "NSTextAttachment"]
+- ["So7UILabelC", "String"]
+- !private ["So7UILabelC", "UIColor"]
+- ["So7UILabelC", "UIImage"]
+- !private ["So7UILabelC", "attributedText"]
+- !private ["So7UILabelC", "clipsToBounds"]
+- !private ["So7UILabelC", "font"]
+- !private ["So7UILabelC", "frame"]
+- ["So7UILabelC", "halfTextColorChange"]
+- !private ["So7UILabelC", "layer"]
+- ["So7UILabelC", "set"]
+- ["So7UILabelC", "setCornerRadiusbutton"]
+- !private ["So24UILargeContentViewerItemP", "CGRect"]
+- !private ["So24UILargeContentViewerItemP", "NSAttributedString"]
+- !private ["So24UILargeContentViewerItemP", "NSMutableAttributedString"]
+- !private ["So24UILargeContentViewerItemP", "NSTextAttachment"]
+- !private ["So24UILargeContentViewerItemP", "UIColor"]
+- !private ["So24UILargeContentViewerItemP", "attributedText"]
+- !private ["So24UILargeContentViewerItemP", "clipsToBounds"]
+- !private ["So24UILargeContentViewerItemP", "font"]
+- !private ["So24UILargeContentViewerItemP", "frame"]
+- !private ["So24UILargeContentViewerItemP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGRect"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSAttributedString"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSMutableAttributedString"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSTextAttachment"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "attributedText"]
+- !private ["So30UIPasteConfigurationSupportingP", "clipsToBounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "font"]
+- !private ["So30UIPasteConfigurationSupportingP", "frame"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So11UIResponderC", "CGRect"]
+- !private ["So11UIResponderC", "NSAttributedString"]
+- !private ["So11UIResponderC", "NSMutableAttributedString"]
+- !private ["So11UIResponderC", "NSString"]
+- !private ["So11UIResponderC", "NSTextAttachment"]
+- ["So11UIResponderC", "String"]
+- !private ["So11UIResponderC", "UIColor"]
+- ["So11UIResponderC", "UIImage"]
+- !private ["So11UIResponderC", "attributedText"]
+- !private ["So11UIResponderC", "clipsToBounds"]
+- !private ["So11UIResponderC", "font"]
+- !private ["So11UIResponderC", "frame"]
+- ["So11UIResponderC", "halfTextColorChange"]
+- !private ["So11UIResponderC", "layer"]
+- ["So11UIResponderC", "set"]
+- ["So11UIResponderC", "setCornerRadiusImageView"]
+- ["So11UIResponderC", "setCornerRadiusStackView"]
+- ["So11UIResponderC", "setCornerRadiusbutton"]
+- !private ["So30UIResponderStandardEditActionsP", "CGRect"]
+- !private ["So30UIResponderStandardEditActionsP", "NSAttributedString"]
+- !private ["So30UIResponderStandardEditActionsP", "NSMutableAttributedString"]
+- !private ["So30UIResponderStandardEditActionsP", "NSTextAttachment"]
+- !private ["So30UIResponderStandardEditActionsP", "UIColor"]
+- !private ["So30UIResponderStandardEditActionsP", "attributedText"]
+- !private ["So30UIResponderStandardEditActionsP", "clipsToBounds"]
+- !private ["So30UIResponderStandardEditActionsP", "font"]
+- !private ["So30UIResponderStandardEditActionsP", "frame"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So11UIStackViewC", "clipsToBounds"]
+- !private ["So11UIStackViewC", "frame"]
+- !private ["So11UIStackViewC", "layer"]
+- ["So11UIStackViewC", "setCornerRadiusStackView"]
+- !private ["So18UITraitEnvironmentP", "CGRect"]
+- !private ["So18UITraitEnvironmentP", "NSAttributedString"]
+- !private ["So18UITraitEnvironmentP", "NSMutableAttributedString"]
+- !private ["So18UITraitEnvironmentP", "NSTextAttachment"]
+- !private ["So18UITraitEnvironmentP", "UIColor"]
+- !private ["So18UITraitEnvironmentP", "attributedText"]
+- !private ["So18UITraitEnvironmentP", "clipsToBounds"]
+- !private ["So18UITraitEnvironmentP", "font"]
+- !private ["So18UITraitEnvironmentP", "frame"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So23UIUserActivityRestoringP", "CGRect"]
+- !private ["So23UIUserActivityRestoringP", "NSAttributedString"]
+- !private ["So23UIUserActivityRestoringP", "NSMutableAttributedString"]
+- !private ["So23UIUserActivityRestoringP", "NSTextAttachment"]
+- !private ["So23UIUserActivityRestoringP", "UIColor"]
+- !private ["So23UIUserActivityRestoringP", "attributedText"]
+- !private ["So23UIUserActivityRestoringP", "clipsToBounds"]
+- !private ["So23UIUserActivityRestoringP", "font"]
+- !private ["So23UIUserActivityRestoringP", "frame"]
+- !private ["So23UIUserActivityRestoringP", "layer"]
+- !private ["So6UIViewC", "CGRect"]
+- !private ["So6UIViewC", "NSAttributedString"]
+- !private ["So6UIViewC", "NSMutableAttributedString"]
+- !private ["So6UIViewC", "NSString"]
+- !private ["So6UIViewC", "NSTextAttachment"]
+- ["So6UIViewC", "String"]
+- !private ["So6UIViewC", "UIColor"]
+- ["So6UIViewC", "UIImage"]
+- !private ["So6UIViewC", "attributedText"]
+- !private ["So6UIViewC", "clipsToBounds"]
+- !private ["So6UIViewC", "font"]
+- !private ["So6UIViewC", "frame"]
+- ["So6UIViewC", "halfTextColorChange"]
+- !private ["So6UIViewC", "layer"]
+- ["So6UIViewC", "set"]
+- ["So6UIViewC", "setCornerRadiusImageView"]
+- ["So6UIViewC", "setCornerRadiusStackView"]
+- ["So6UIViewC", "setCornerRadiusbutton"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "height"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "range"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "size"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "width"]
+- !private ["s26_ExpressibleByColorLiteralP", "red"]
+- !private ["s26_ExpressibleByImageLiteralP", "CGRect"]
+- !private ["s26_ExpressibleByImageLiteralP", "CGSize"]
+- !private ["s26_ExpressibleByImageLiteralP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["s26_ExpressibleByImageLiteralP", "UIGraphicsEndImageContext"]
+- !private ["s26_ExpressibleByImageLiteralP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["s26_ExpressibleByImageLiteralP", "draw"]
+- !private ["s26_ExpressibleByImageLiteralP", "size"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "font"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "foregroundColor"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "range"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGRect"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGSize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Key"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSAttributedString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSMutableAttributedString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSTextAttachment"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIGraphicsEndImageContext"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addAttribute"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "append"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "attributedText"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "clipsToBounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cornerRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "draw"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "font"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "range"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "red"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "size"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "CGRect"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "CGSize"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Key"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "NSAttributedString"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "NSMutableAttributedString"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "NSTextAttachment"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIColor"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIGraphicsEndImageContext"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "addAttribute"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "append"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "attributedText"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "bounds"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "clipsToBounds"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "cornerRadius"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "draw"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "font"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "frame"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "image"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "layer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "range"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "red"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "size"]
+- !private ["s21_ObjectiveCBridgeableP", "font"]
+- !private ["s21_ObjectiveCBridgeableP", "foregroundColor"]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "size"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+- !private ["s20_SwiftNewtypeWrapperP", "font"]
+- !private ["s20_SwiftNewtypeWrapperP", "foregroundColor"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "CGRect"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "NSAttributedString"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "NSMutableAttributedString"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "NSTextAttachment"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "UIColor"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "attributedText"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "clipsToBounds"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "font"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "frame"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "layer"]
+depends-nominal:
+- !private "So7CALayerC"
+- !private "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- !private "So6CGRectV"
+- !private "So6CGSizeV"
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "SH"
+- !private "So21NSAttributedStringKeya"
+- !private "10Kingfisher0A10CompatibleP"
+- !private "So18NSAttributedStringC"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So25NSMutableAttributedStringC"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "So16NSTextAttachmentC"
+- !private "So25NSTextAttachmentContainerP"
+- !private "10Kingfisher11PlaceholderP"
+- !private "SY"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So7UIColorC"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- "So7UIImageC"
+- "So11UIImageViewC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
+- "So7UILabelC"
+- !private "So24UILargeContentViewerItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- "So11UIStackViewC"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s26_ExpressibleByImageLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s20_SwiftNewtypeWrapperP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreData.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Accelerate.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Modules/PasswordTextField.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Modules/SkyFloatingLabelTextField.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules/AlamofireImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SMIconLabel/SMIconLabel.framework/Modules/SMIconLabel.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Modules/ObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Modules/AlamofireObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Modules/IQKeyboardManagerSwift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Headers/PasswordTextField-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Headers/SkyFloatingLabelTextField-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SMIconLabel/SMIconLabel.framework/Headers/SMIconLabel-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/DLRadioButton/DLRadioButton.framework/Headers/DLRadioButton-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/KIImagePager/KIImagePager.framework/Headers/KIImagePager-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Headers/ObjectMapper-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMCheckBox-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Headers/PasswordTextField.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/DLRadioButton/DLRadioButton.framework/Headers/DLRadioButton.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMCheckBoxGroup.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Oglasnik/MySideMenu/Oglasnik-Bridging-Header.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/KIImagePager/KIImagePager.framework/Headers/KIImagePager.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMPathManager.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMAnimationManager.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Oglasnik/MySideMenu/MMDrawerController.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Headers/PasswordTextField-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Headers/SkyFloatingLabelTextField-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SMIconLabel/SMIconLabel.framework/Headers/SMIconLabel-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Headers/ObjectMapper-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMCheckBox.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SMIconLabel/SMIconLabel.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/DLRadioButton/DLRadioButton.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/KIImagePager/KIImagePager.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "d2fc22d448d66d2207d110f877d7de83"

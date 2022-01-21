@@ -1,0 +1,10 @@
+framework module PasswordTextField {
+  umbrella header "PasswordTextField-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module PasswordTextField.__Swift {
+    exclude header "PasswordTextField-Swift.h"
+}

@@ -1,0 +1,87 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.3.0):
+    - Alamofire (~> 4.5)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - BEMCheckBox (1.4.1)
+  - DLRadioButton (1.4.11)
+  - ImageTextField (1.0.0)
+  - IQKeyboardManagerSwift (5.0.4)
+  - KIImagePager (2.1.1)
+  - Kingfisher (4.1.1)
+  - MGSwipeTableCell (1.6.1)
+  - ObjectMapper (3.5.1)
+  - PasswordTextField (1.0.4)
+  - SkyFloatingLabelTextField (3.2.1)
+  - SMIconLabel (0.4.0)
+  - SwiftyJSON (3.1.4)
+  - SwipeCellKit (2.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - AlamofireImage
+  - AlamofireObjectMapper (~> 5.1)
+  - BEMCheckBox
+  - DLRadioButton (~> 1.4)
+  - ImageTextField (~> 1.0.0)
+  - IQKeyboardManagerSwift
+  - KIImagePager
+  - Kingfisher
+  - MGSwipeTableCell
+  - PasswordTextField
+  - SkyFloatingLabelTextField (~> 3.0)
+  - SMIconLabel
+  - SwiftyJSON
+  - SwipeCellKit (from `https://github.com/SwipeCellKit/SwipeCellKit.git`, branch `develop`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireObjectMapper
+    - BEMCheckBox
+    - DLRadioButton
+    - ImageTextField
+    - IQKeyboardManagerSwift
+    - KIImagePager
+    - Kingfisher
+    - MGSwipeTableCell
+    - ObjectMapper
+    - PasswordTextField
+    - SkyFloatingLabelTextField
+    - SMIconLabel
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  SwipeCellKit:
+    :branch: develop
+    :git: https://github.com/SwipeCellKit/SwipeCellKit.git
+
+CHECKOUT OPTIONS:
+  SwipeCellKit:
+    :commit: 11d86e3864329a970925d985f5273d76b5d74afc
+    :git: https://github.com/SwipeCellKit/SwipeCellKit.git
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  BEMCheckBox: 5ba6e37ade3d3657b36caecc35c8b75c6c2b1a4e
+  DLRadioButton: 0d04b8259e7bfd886571a1e9173c73fee7118f50
+  ImageTextField: 214c7eca8eecbf71c7b17300821e727bf2df7a48
+  IQKeyboardManagerSwift: a0592bb636b10a9a1cf75d2b2c61144226226c84
+  KIImagePager: 3294254e5e3f76c62edc8bd89da4d0b5ed010b19
+  Kingfisher: 6793a473357b5dbee42b0068ef203fe8325f259e
+  MGSwipeTableCell: 19a1d65dcc1ceaea42eb44bb2adae32101904514
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  PasswordTextField: 1fccb24dd769cfc963f1f60cb9fece692ad40530
+  SkyFloatingLabelTextField: 71d28906024e7d7e4460099b342f3ca7036a2e24
+  SMIconLabel: a30e4316fb3d7808549005faa6a6798c06c2eeba
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  SwipeCellKit: 7db3ff3595609793108b0e7dbc8c6ca7d9dafa8a
+
+PODFILE CHECKSUM: a7792337f67e66705d1007d54982a74f33c2aa4b
+
+COCOAPODS: 1.6.1

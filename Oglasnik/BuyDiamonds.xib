@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15510"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="BuyDiamonds" customModule="Oglasnik" customModuleProvider="target">
+            <connections>
+                <outlet property="scrollViewxib" destination="zZa-Xq-VBM" id="6qo-bL-Bwd"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clipsSubviews="YES" contentMode="scaleAspectFill" id="i5M-Pr-FkT" userLabel="BuyDiamond" customClass="BuyDiamonds" customModule="Oglasnik" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="300" height="500"/>
+            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <scrollView clipsSubviews="YES" clearsContextBeforeDrawing="NO" multipleTouchEnabled="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" showsHorizontalScrollIndicator="NO" bouncesZoom="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zZa-Xq-VBM">
+                    <rect key="frame" x="0.0" y="0.0" width="300" height="500"/>
+                    <subviews>
+                        <view clipsSubviews="YES" contentMode="scaleToFill" placeholderIntrinsicWidth="300" placeholderIntrinsicHeight="650" translatesAutoresizingMaskIntoConstraints="NO" id="7tJ-NS-TlF" userLabel="BuyDiamond">
+                            <rect key="frame" x="0.0" y="44" width="300" height="800"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text=" Add Diamonds  (price 1 diamond is 1 denar) " lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gk7-QB-hJQ">
+                                    <rect key="frame" x="8" y="41" width="284" height="61"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <button opaque="NO" tag="1" contentMode="scaleToFill" verticalHuggingPriority="247" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="18f-Je-euh" userLabel="check30DiamondsButton" customClass="DLRadioButton">
+                                    <rect key="frame" x="7.6666666666666643" y="121" width="77" height="40"/>
+                                    <inset key="imageEdgeInsets" minX="10" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                    <state key="normal" title="     30">
+                                        <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </state>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="indicatorSize">
+                                            <real key="value" value="0.0"/>
+                                        </userDefinedRuntimeAttribute>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="iconSize">
+                                            <real key="value" value="10"/>
+                                        </userDefinedRuntimeAttribute>
+                                    </userDefinedRuntimeAttributes>
+                                    <connections>
+                                        <outletCollection property="otherButtons" destination="bxI-SM-d9C" id="ueW-Dh-4vr"/>
+                                        <outletCollection property="otherButtons" destination="fJr-jD-JRQ" id="w47-Sm-F7l"/>
+                                        <outletCollection property="otherButtons" destination="jlQ-O0-OaH" id="SIp-7F-XCa"/>
+                                        <outletCollection property="otherButtons" destination="2cL-nj-wh1" id="L7y-dB-ioU"/>
+                                        <outletCollection property="otherButtons" destination="c8N-rl-73f" id="a1T-l2-3cM"/>
+                                    </connections>
+                                </button>
+                                <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bxI-SM-d9C" userLabel="Check50 Diamonds Button" customClass="DLRadioButton">
+                                    <rect key="frame" x="7.6666666666666643" y="158.33333333333334" width="77" height="22"/>
+                                    <inset key="contentEdgeInsets" minX="0.20000000000000018" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                    <inset key="imageEdgeInsets" minX="10" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                    <state key="normal" title="     50">
+                                        <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </state>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="iconSize">
+                                            <real key="value" value="10"/>
+                                        </userDefinedRuntimeAttribute>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="indicatorSize">
+                                            <real key="value" value="0.0"/>
+                                        </userDefinedRuntimeAttribute>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="marginWidth">
+                                            <real key="value" value="0.0"/>
+                                        </userDefinedRuntimeAttribute>
+                                    </userDefinedRuntimeAttributes>
+                                </button>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="justified" lineBreakMode="wordWrap" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qqT-et-Fo8">
+                                    <rect key="frame" x="8" y="157" width="69" height="25"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <button opaque="NO" tag="3" contentMode="scaleToFill" verticalCompressionResistancePriority="749" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fJr-jD-JRQ" userLabel="Check90 Diamonds Button" customClass="DLRadioButton">
+                                    <rect key="frame" x="7.6666666666666643" y="182" width="77" height="34"/>
+                                    <inset key="imageEdgeInsets" minX="10" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                    <state key="normal" title="   90">
+                                        <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </state>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="iconSize">
+                                            <real key="value" value="10"/>
+                                        </userDefinedRuntimeAttribute>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="indicatorSize">
+                                            <real key="value" value="0.0"/>
+                                        </userDefinedRuntimeAttribute>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="marginWidth">
+                                            <real key="value" value="0.0"/>
+                                        </userDefinedRuntimeAttribute>
+                                    </userDefinedRuntimeAttributes>
+                                </button>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="justified" lineBreakMode="wordWrap" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="b0G-jE-JOf">
+                                    <rect key="frame" x="8" y="182" width="69" height="34"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text=" ПРОМО! Надополнете 100     или повеќе и ќе добиете двојно" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PBa-N9-hoy">
+                                    <rect key="frame" x="2" y="224" width="284" height="68"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="68" id="j3a-pZ-be8">
+                                            <variation key="heightClass=regular" constant="68"/>
+                                        </constraint>
+                                    </constraints>
+                                    <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="16"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                    <variation key="default">
+                                        <mask key="constraints">
+                                            <exclude reference="j3a-pZ-be8"/>
+                                        </mask>
+                                    </variation>
+                                    <variation key="heightClass=compact">
+                                        <mask key="constraints">
+                                            <include reference="j3a-pZ-be8"/>
+                                        </mask>
+                                    </variation>
+                                    <variation key="heightClass=regular">
+                                        <mask key="constraints">
+                                            <include reference="j3a-pZ-be8"/>
+                                        </mask>
+                                    </variation>
+                                </label>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hus-N2-ofn">
+                                    <rect key="frame" x="270" y="8" width="25" height="25"/>
+                                    <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                    <state key="normal" image="close_button_buy"/>
+                                </button>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5VW-c2-4rD">
+                                    <rect key="frame" x="-2" y="515" width="304" height="30"/>
+                                    <color key="backgroundColor" red="0.002369965889105563" green="0.83464808179642347" blue="0.0036772178633717361" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <state key="normal" title="Buy">
+                                        <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </state>
+                                </button>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="justified" lineBreakMode="wordWrap" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="N3i-Q8-KOP">
+                                    <rect key="frame" x="8" y="131" width="69" height="25"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="69" id="FrG-Vy-sJP"/>
+                                        <constraint firstAttribute="height" constant="25" id="k43-WL-g1s"/>
+                                    </constraints>
+                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <button opaque="NO" tag="4" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jlQ-O0-OaH" userLabel="Check100 Plus Diamonds Button" customClass="DLRadioButton">
+                                    <rect key="frame" x="3" y="306.33333333333331" width="284" height="22.333333333333314"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" relation="lessThanOrEqual" constant="284" id="vlc-8E-CP0">
+                                            <variation key="heightClass=regular-widthClass=compact" constant="284"/>
+                                        </constraint>
+                                    </constraints>
+                                    <inset key="contentEdgeInsets" minX="20" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                    <state key="normal">
+                                        <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </state>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="iconSize">
+                                            <real key="value" value="10"/>
+                                        </userDefinedRuntimeAttribute>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="marginWidth">
+                                            <real key="value" value="40"/>
+                                        </userDefinedRuntimeAttribute>
+                                    </userDefinedRuntimeAttributes>
+                                    <variation key="default">
+                                        <mask key="constraints">
+                                            <exclude reference="vlc-8E-CP0"/>
+                                        </mask>
+                                    </variation>
+                                    <variation key="heightClass=regular-widthClass=compact">
+                                        <mask key="constraints">
+                                            <include reference="vlc-8E-CP0"/>
+                                        </mask>
+                                    </variation>
+                                </button>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="       100      +" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" preferredMaxLayoutWidth="100" translatesAutoresizingMaskIntoConstraints="NO" id="LIB-QG-gQl">
+                                    <rect key="frame" x="14" y="306.33333333333331" width="273" height="20.666666666666686"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <button opaque="NO" tag="5" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2cL-nj-wh1" userLabel="Check200 Plus Diamonds Button" customClass="DLRadioButton">
+                                    <rect key="frame" x="3" y="335" width="284" height="21"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="284" id="z1t-Yc-Fr0"/>
+                                    </constraints>
+                                    <inset key="contentEdgeInsets" minX="20" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                    <state key="normal">
+                                        <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </state>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="iconSize">
+                                            <real key="value" value="10"/>
+                                        </userDefinedRuntimeAttribute>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="marginWidth">
+                                            <real key="value" value="40"/>
+                                        </userDefinedRuntimeAttribute>
+                                    </userDefinedRuntimeAttributes>
+                                </button>
+                                <button opaque="NO" tag="6" contentMode="scaleToFill" selected="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="c8N-rl-73f" userLabel="Check500 Diamonds Button" customClass="DLRadioButton">
+                                    <rect key="frame" x="-2" y="366" width="25" height="22"/>
+                                    <inset key="contentEdgeInsets" minX="25" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                    <state key="normal">
+                                        <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </state>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="iconSize">
+                                            <real key="value" value="10"/>
+                                        </userDefinedRuntimeAttribute>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="marginWidth">
+                                            <real key="value" value="40"/>
+                                        </userDefinedRuntimeAttribute>
+                                    </userDefinedRuntimeAttributes>
+                                </button>
+                                <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="right" contentVerticalAlignment="top" text="500" borderStyle="roundedRect" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="fX5-Gh-m6u">
+                                    <rect key="frame" x="29" y="363" width="156" height="34"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="156" id="xwN-84-fHU"/>
+                                    </constraints>
+                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                    <textInputTraits key="textInputTraits"/>
+                                </textField>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="       200     +" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cNm-aH-4Xd">
+                                    <rect key="frame" x="14" y="335" width="272" height="21"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="272" id="Fdc-lx-GJd"/>
+                                    </constraints>
+                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text=" 200      free" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QRr-4z-WC6">
+                                    <rect key="frame" x="181" y="335" width="105" height="21"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="21" id="y5X-K9-itx"/>
+                                        <constraint firstAttribute="width" constant="105" id="y69-vS-LIk"/>
+                                    </constraints>
+                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text=" 100      free" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fnK-gI-gT1">
+                                    <rect key="frame" x="181" y="304.66666666666669" width="105" height="24"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="24" id="WCH-Ka-YtW"/>
+                                    </constraints>
+                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <constraints>
+                                <constraint firstItem="b0G-jE-JOf" firstAttribute="top" secondItem="fJr-jD-JRQ" secondAttribute="top" id="0zD-Uu-viP"/>
+                                <constraint firstItem="N3i-Q8-KOP" firstAttribute="top" secondItem="18f-Je-euh" secondAttribute="top" constant="10" id="1LO-ao-fu5"/>
+                                <constraint firstItem="gk7-QB-hJQ" firstAttribute="top" secondItem="hus-N2-ofn" secondAttribute="bottom" constant="8" id="1YB-2i-nSa"/>
+                                <constraint firstItem="b0G-jE-JOf" firstAttribute="leading" secondItem="qqT-et-Fo8" secondAttribute="trailing" constant="-69" id="2Gl-XJ-WLm"/>
+                                <constraint firstItem="N3i-Q8-KOP" firstAttribute="trailing" secondItem="qqT-et-Fo8" secondAttribute="trailing" id="2od-Cd-FSy"/>
+                                <constraint firstItem="2cL-nj-wh1" firstAttribute="centerY" secondItem="QRr-4z-WC6" secondAttribute="centerY" id="3oX-a4-kXK"/>
+                                <constraint firstItem="hus-N2-ofn" firstAttribute="top" secondItem="7tJ-NS-TlF" secondAttribute="top" constant="8" id="43r-BF-qcB"/>
+                                <constraint firstItem="jlQ-O0-OaH" firstAttribute="centerX" secondItem="gk7-QB-hJQ" secondAttribute="centerX" constant="-5" id="4f7-ef-ofr">
+                                    <variation key="heightClass=regular-widthClass=compact" constant="-5"/>
+                                </constraint>
+                                <constraint firstItem="b0G-jE-JOf" firstAttribute="leading" secondItem="qqT-et-Fo8" secondAttribute="leading" id="4wR-Yy-9jc"/>
+                                <constraint firstItem="cNm-aH-4Xd" firstAttribute="leading" secondItem="7tJ-NS-TlF" secondAttribute="leading" constant="14" id="5vr-ER-LaX"/>
+                                <constraint firstItem="bxI-SM-d9C" firstAttribute="top" secondItem="18f-Je-euh" secondAttribute="bottom" constant="-2.6666666666666856" id="6iR-cf-dSE"/>
+                                <constraint firstAttribute="trailing" secondItem="hus-N2-ofn" secondAttribute="trailing" constant="5" id="6ub-OI-Z3m"/>
+                                <constraint firstItem="18f-Je-euh" firstAttribute="leading" secondItem="qqT-et-Fo8" secondAttribute="trailing" constant="-69.333333333333343" id="8Uu-nw-HJa"/>
+                                <constraint firstItem="jlQ-O0-OaH" firstAttribute="centerX" secondItem="PBa-N9-hoy" secondAttribute="centerX" id="8pY-xx-YWu">
+                                    <variation key="heightClass=regular-widthClass=compact" constant="1"/>
+                                </constraint>
+                                <constraint firstItem="2cL-nj-wh1" firstAttribute="bottom" secondItem="cNm-aH-4Xd" secondAttribute="bottom" id="9AP-B9-t0u"/>
+                                <constraint firstItem="qqT-et-Fo8" firstAttribute="width" secondItem="N3i-Q8-KOP" secondAttribute="width" id="AkL-V6-i7h"/>
+                                <constraint firstItem="gk7-QB-hJQ" firstAttribute="leading" secondItem="7tJ-NS-TlF" secondAttribute="leading" constant="8" id="BNL-2F-vBs"/>
+                                <constraint firstItem="5VW-c2-4rD" firstAttribute="centerX" secondItem="7tJ-NS-TlF" secondAttribute="centerX" id="C8v-av-SGN"/>
+                                <constraint firstItem="fJr-jD-JRQ" firstAttribute="centerX" secondItem="bxI-SM-d9C" secondAttribute="centerX" id="EHh-BY-GHX"/>
+                                <constraint firstItem="fX5-Gh-m6u" firstAttribute="top" secondItem="2cL-nj-wh1" secondAttribute="bottom" constant="7" id="FI3-XN-r1G"/>
+                                <constraint firstItem="PBa-N9-hoy" firstAttribute="leading" secondItem="7tJ-NS-TlF" secondAttribute="leading" constant="2" id="Fty-85-YJv"/>
+                                <constraint firstItem="fnK-gI-gT1" firstAttribute="leading" secondItem="QRr-4z-WC6" secondAttribute="leading" id="Gk3-Dg-r5D"/>
+                                <constraint firstItem="2cL-nj-wh1" firstAttribute="top" secondItem="QRr-4z-WC6" secondAttribute="top" id="GuZ-5X-wKE"/>
+                                <constraint firstItem="N3i-Q8-KOP" firstAttribute="centerX" secondItem="b0G-jE-JOf" secondAttribute="centerX" id="Hcb-Gs-8au"/>
+                                <constraint firstItem="bxI-SM-d9C" firstAttribute="centerX" secondItem="18f-Je-euh" secondAttribute="centerX" id="Hxx-x1-64D"/>
+                                <constraint firstItem="fnK-gI-gT1" firstAttribute="trailing" secondItem="QRr-4z-WC6" secondAttribute="trailing" id="INc-ht-QWn"/>
+                                <constraint firstItem="5VW-c2-4rD" firstAttribute="leading" secondItem="7tJ-NS-TlF" secondAttribute="leading" constant="-2" id="INw-uG-3rK"/>
+                                <constraint firstItem="2cL-nj-wh1" firstAttribute="top" secondItem="fnK-gI-gT1" secondAttribute="bottom" constant="6.3333333333333144" id="JGr-kH-Dlz"/>
+                                <constraint firstItem="18f-Je-euh" firstAttribute="leading" secondItem="7tJ-NS-TlF" secondAttribute="leading" constant="7.6666666666666643" id="Mql-Ge-EKP"/>
+                                <constraint firstItem="qqT-et-Fo8" firstAttribute="height" secondItem="N3i-Q8-KOP" secondAttribute="height" id="NiW-uq-3jW"/>
+                                <constraint firstItem="qqT-et-Fo8" firstAttribute="top" secondItem="N3i-Q8-KOP" secondAttribute="bottom" constant="1" id="OLG-7c-Rbq"/>
+                                <constraint firstItem="c8N-rl-73f" firstAttribute="top" secondItem="2cL-nj-wh1" secondAttribute="bottom" constant="10" id="Oo6-9d-Vbp"/>
+                                <constraint firstItem="bxI-SM-d9C" firstAttribute="leading" secondItem="18f-Je-euh" secondAttribute="leading" id="PUo-zW-tXF"/>
+                                <constraint firstAttribute="trailing" secondItem="18f-Je-euh" secondAttribute="trailing" constant="215.33333333333334" id="Ty8-6B-D81"/>
+                                <constraint firstItem="LIB-QG-gQl" firstAttribute="leading" secondItem="7tJ-NS-TlF" secondAttribute="leading" constant="14" id="UTp-Pc-HEM"/>
+                                <constraint firstItem="5VW-c2-4rD" firstAttribute="top" secondItem="fX5-Gh-m6u" secondAttribute="bottom" constant="118" id="VkR-ms-jpa"/>
+                                <constraint firstItem="jlQ-O0-OaH" firstAttribute="top" secondItem="LIB-QG-gQl" secondAttribute="top" id="W0L-DV-5ag"/>
+                                <constraint firstItem="fX5-Gh-m6u" firstAttribute="leading" secondItem="7tJ-NS-TlF" secondAttribute="leading" constant="29" id="WT1-Rc-Njo"/>
+                                <constraint firstItem="18f-Je-euh" firstAttribute="top" secondItem="gk7-QB-hJQ" secondAttribute="bottom" constant="19" id="XAk-hf-Uqa"/>
+                                <constraint firstItem="N3i-Q8-KOP" firstAttribute="leading" secondItem="qqT-et-Fo8" secondAttribute="leading" id="Xf6-OH-Swl"/>
+                                <constraint firstItem="2cL-nj-wh1" firstAttribute="top" secondItem="LIB-QG-gQl" secondAttribute="bottom" constant="8" id="Z6T-pO-HT6"/>
+                                <constraint firstItem="b0G-jE-JOf" firstAttribute="width" secondItem="qqT-et-Fo8" secondAttribute="width" id="Z71-Eh-iEx"/>
+                                <constraint firstItem="fnK-gI-gT1" firstAttribute="centerY" secondItem="LIB-QG-gQl" secondAttribute="centerY" id="ZRg-dY-Tjq"/>
+                                <constraint firstItem="bxI-SM-d9C" firstAttribute="firstBaseline" secondItem="18f-Je-euh" secondAttribute="baseline" constant="28.333333333333314" id="Zdl-9q-3pN"/>
+                                <constraint firstItem="PBa-N9-hoy" firstAttribute="centerX" secondItem="jlQ-O0-OaH" secondAttribute="centerX" constant="5" id="aBr-VN-Kj0">
+                                    <variation key="heightClass=regular-widthClass=compact" constant="-1"/>
+                                </constraint>
+                                <constraint firstItem="N3i-Q8-KOP" firstAttribute="trailing" secondItem="b0G-jE-JOf" secondAttribute="trailing" id="aUf-OU-XzJ"/>
+                                <constraint firstItem="fnK-gI-gT1" firstAttribute="bottom" secondItem="jlQ-O0-OaH" secondAttribute="bottom" id="af7-eO-vbi"/>
+                                <constraint firstItem="QRr-4z-WC6" firstAttribute="trailing" secondItem="2cL-nj-wh1" secondAttribute="trailing" constant="-1" id="cdl-T4-81c"/>
+                                <constraint firstItem="qqT-et-Fo8" firstAttribute="leading" secondItem="7tJ-NS-TlF" secondAttribute="leading" constant="8" id="gab-mw-V5E"/>
+                                <constraint firstItem="2cL-nj-wh1" firstAttribute="top" secondItem="cNm-aH-4Xd" secondAttribute="top" id="iK9-QE-4Qj"/>
+                                <constraint firstAttribute="bottom" secondItem="jlQ-O0-OaH" secondAttribute="bottom" constant="471.33333333333337" id="ktE-QJ-zxs"/>
+                                <constraint firstItem="fJr-jD-JRQ" firstAttribute="leading" secondItem="bxI-SM-d9C" secondAttribute="leading" id="l54-DD-7bV"/>
+                                <constraint firstAttribute="trailing" secondItem="qqT-et-Fo8" secondAttribute="trailing" constant="223" id="lL5-g1-YMW"/>
+                                <constraint firstItem="fX5-Gh-m6u" firstAttribute="leading" secondItem="c8N-rl-73f" secondAttribute="trailing" constant="6" id="nON-ei-7he"/>
+                                <constraint firstItem="2cL-nj-wh1" firstAttribute="leading" secondItem="7tJ-NS-TlF" secondAttribute="leading" constant="3" id="oZM-9v-uAr"/>
+                                <constraint firstItem="b0G-jE-JOf" firstAttribute="top" secondItem="qqT-et-Fo8" secondAttribute="bottom" id="ohZ-Ni-4Fc"/>
+                                <constraint firstItem="PBa-N9-hoy" firstAttribute="leading" secondItem="7tJ-NS-TlF" secondAttribute="leading" constant="2" id="qaS-Hf-vz3"/>
+                                <constraint firstAttribute="trailing" secondItem="gk7-QB-hJQ" secondAttribute="trailing" constant="8" id="teK-3O-sZm"/>
+                                <constraint firstItem="b0G-jE-JOf" firstAttribute="bottom" secondItem="fJr-jD-JRQ" secondAttribute="bottom" id="tu1-V9-bIZ"/>
+                                <constraint firstAttribute="height" constant="650" id="w5m-pE-zra">
+                                    <variation key="heightClass=compact-widthClass=regular" constant="550"/>
+                                    <variation key="heightClass=regular-widthClass=compact" constant="800"/>
+                                </constraint>
+                                <constraint firstItem="N3i-Q8-KOP" firstAttribute="leading" secondItem="gk7-QB-hJQ" secondAttribute="leading" id="wWp-f2-KTl"/>
+                                <constraint firstItem="jlQ-O0-OaH" firstAttribute="centerX" secondItem="7tJ-NS-TlF" secondAttribute="centerX" constant="-5" id="yY1-DP-gkO">
+                                    <variation key="heightClass=regular-widthClass=compact" constant="-5"/>
+                                </constraint>
+                                <constraint firstItem="jlQ-O0-OaH" firstAttribute="trailing" secondItem="7tJ-NS-TlF" secondAttribute="trailingMargin" constant="-5" id="yYv-XO-qRJ">
+                                    <variation key="heightClass=regular-widthClass=compact" constant="-5"/>
+                                </constraint>
+                                <constraint firstItem="PBa-N9-hoy" firstAttribute="top" secondItem="b0G-jE-JOf" secondAttribute="bottom" constant="169" id="zMD-CP-CgW">
+                                    <variation key="heightClass=compact-widthClass=regular" constant="11"/>
+                                    <variation key="heightClass=regular-widthClass=compact" constant="8"/>
+                                </constraint>
+                                <constraint firstItem="jlQ-O0-OaH" firstAttribute="trailing" secondItem="LIB-QG-gQl" secondAttribute="trailing" id="za6-pO-nYz">
+                                    <variation key="heightClass=regular-widthClass=compact" constant="0.0"/>
+                                </constraint>
+                            </constraints>
+                            <variation key="default">
+                                <mask key="constraints">
+                                    <exclude reference="w5m-pE-zra"/>
+                                    <exclude reference="Fty-85-YJv"/>
+                                    <exclude reference="aBr-VN-Kj0"/>
+                                    <exclude reference="zMD-CP-CgW"/>
+                                    <exclude reference="4f7-ef-ofr"/>
+                                    <exclude reference="8pY-xx-YWu"/>
+                                    <exclude reference="yY1-DP-gkO"/>
+                                    <exclude reference="yYv-XO-qRJ"/>
+                                    <exclude reference="za6-pO-nYz"/>
+                                </mask>
+                            </variation>
+                            <variation key="heightClass=compact-widthClass=regular">
+                                <mask key="constraints">
+                                    <include reference="w5m-pE-zra"/>
+                                    <include reference="Fty-85-YJv"/>
+                                    <include reference="zMD-CP-CgW"/>
+                                    <include reference="8pY-xx-YWu"/>
+                                </mask>
+                            </variation>
+                            <variation key="heightClass=regular-widthClass=compact">
+                                <mask key="constraints">
+                                    <include reference="w5m-pE-zra"/>
+                                    <include reference="aBr-VN-Kj0"/>
+                                    <include reference="zMD-CP-CgW"/>
+                                    <include reference="4f7-ef-ofr"/>
+                                    <include reference="8pY-xx-YWu"/>
+                                    <include reference="yY1-DP-gkO"/>
+                                    <include reference="yYv-XO-qRJ"/>
+                                    <include reference="za6-pO-nYz"/>
+                                </mask>
+                            </variation>
+                        </view>
+                    </subviews>
+                    <constraints>
+                        <constraint firstItem="7tJ-NS-TlF" firstAttribute="centerX" secondItem="zZa-Xq-VBM" secondAttribute="centerX" id="ZKr-Zr-Be9"/>
+                        <constraint firstAttribute="trailing" secondItem="7tJ-NS-TlF" secondAttribute="trailing" id="fQs-T8-wsH"/>
+                        <constraint firstItem="7tJ-NS-TlF" firstAttribute="top" secondItem="zZa-Xq-VBM" secondAttribute="top" constant="44" id="p5u-88-1df"/>
+                        <constraint firstAttribute="bottom" secondItem="7tJ-NS-TlF" secondAttribute="bottom" constant="-344" id="rkN-8T-cc7"/>
+                        <constraint firstItem="7tJ-NS-TlF" firstAttribute="leading" secondItem="zZa-Xq-VBM" secondAttribute="leading" id="ynD-UG-WrW"/>
+                    </constraints>
+                    <variation key="default">
+                        <mask key="subviews">
+                            <exclude reference="7tJ-NS-TlF"/>
+                        </mask>
+                    </variation>
+                    <variation key="heightClass=compact-widthClass=compact">
+                        <mask key="subviews">
+                            <include reference="7tJ-NS-TlF"/>
+                        </mask>
+                    </variation>
+                    <variation key="heightClass=compact-widthClass=regular">
+                        <mask key="subviews">
+                            <include reference="7tJ-NS-TlF"/>
+                        </mask>
+                    </variation>
+                    <variation key="heightClass=regular-widthClass=compact">
+                        <mask key="subviews">
+                            <include reference="7tJ-NS-TlF"/>
+                        </mask>
+                    </variation>
+                </scrollView>
+            </subviews>
+            <color key="backgroundColor" systemColor="opaqueSeparatorColor" red="0.77647058820000003" green="0.77647058820000003" blue="0.7843137255" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="zZa-Xq-VBM" secondAttribute="bottom" id="41x-YW-6k7"/>
+                <constraint firstItem="zZa-Xq-VBM" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="B5l-s8-uhe"/>
+                <constraint firstItem="zZa-Xq-VBM" firstAttribute="height" secondItem="i5M-Pr-FkT" secondAttribute="height" id="OF2-AZ-Ji3">
+                    <variation key="heightClass=regular" constant="0.0"/>
+                </constraint>
+                <constraint firstAttribute="trailing" secondItem="zZa-Xq-VBM" secondAttribute="trailing" id="Xdr-xe-imf">
+                    <variation key="heightClass=regular" constant="0.0"/>
+                </constraint>
+                <constraint firstItem="zZa-Xq-VBM" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="rVp-Nh-nWJ"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="OF2-AZ-Ji3"/>
+                    <exclude reference="Xdr-xe-imf"/>
+                </mask>
+            </variation>
+            <variation key="heightClass=regular">
+                <mask key="constraints">
+                    <include reference="OF2-AZ-Ji3"/>
+                    <include reference="Xdr-xe-imf"/>
+                </mask>
+            </variation>
+            <variation key="heightClass=compact-widthClass=regular">
+                <mask key="subviews">
+                    <include reference="zZa-Xq-VBM"/>
+                </mask>
+            </variation>
+            <variation key="heightClass=regular-widthClass=compact">
+                <mask key="subviews">
+                    <include reference="zZa-Xq-VBM"/>
+                </mask>
+            </variation>
+            <connections>
+                <outlet property="buyDiamondView" destination="7tJ-NS-TlF" id="MG1-hc-pF3"/>
+                <outlet property="buyDiomondsButton" destination="5VW-c2-4rD" id="4EP-6D-8zF"/>
+                <outlet property="check100DiamondsFreeLbl" destination="fnK-gI-gT1" id="o8S-Os-DWe"/>
+                <outlet property="check100PlusDiomondsLbl" destination="LIB-QG-gQl" id="rtd-YJ-UVk"/>
+                <outlet property="check200DiamondsFreeLbl" destination="QRr-4z-WC6" id="5Yr-Vi-sjw"/>
+                <outlet property="check200DiamondsPlusLbl" destination="cNm-aH-4Xd" id="aJI-bp-26z"/>
+                <outlet property="check30DiamondsButton" destination="18f-Je-euh" id="LO3-ys-zjz"/>
+                <outlet property="check30DiamondsLbl" destination="N3i-Q8-KOP" id="kuk-N6-QkK"/>
+                <outlet property="check50DiamondsButton" destination="bxI-SM-d9C" id="FWC-28-iXm"/>
+                <outlet property="check50DiamondsLbl" destination="qqT-et-Fo8" id="H1b-uC-Lot"/>
+                <outlet property="check90DiamondsButton" destination="fJr-jD-JRQ" id="C8K-g4-xV0"/>
+                <outlet property="check90DiamondsLbl" destination="b0G-jE-JOf" id="GWD-Dr-Ag8"/>
+                <outlet property="checkDoubleOf100DiamondsButton" destination="jlQ-O0-OaH" id="Scd-oJ-r8q"/>
+                <outlet property="checkDoubleOf200DiamondsButton" destination="2cL-nj-wh1" id="Mw9-2e-oLz"/>
+                <outlet property="checkedDoubleOf500DiamondsButton" destination="c8N-rl-73f" id="Q4d-ot-tXJ"/>
+                <outlet property="close_button_buy" destination="hus-N2-ofn" id="DhE-YU-Ac8"/>
+                <outlet property="promoTextlabel" destination="PBa-N9-hoy" id="eaK-pQ-At8"/>
+                <outlet property="showCheckedDiamondValueTF" destination="fX5-Gh-m6u" id="vTy-Pe-TCL"/>
+            </connections>
+            <point key="canvasLocation" x="-5.7971014492753632" y="215.625"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="close_button_buy" width="25" height="25"/>
+    </resources>
+</document>

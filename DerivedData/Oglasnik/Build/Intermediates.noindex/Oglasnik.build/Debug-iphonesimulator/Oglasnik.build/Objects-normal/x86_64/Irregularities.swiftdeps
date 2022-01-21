@@ -1,0 +1,960 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Irregularities"
+provides-nominal:
+- "8Oglasnik14IrregularitiesC"
+provides-member:
+- ["8Oglasnik14IrregularitiesC", ""]
+provides-dynamic-lookup:
+- "closeButton"
+- "dissmissButton"
+- "duplicateButton"
+- "expiredButton"
+- "hideTextView"
+- "init"
+- "irregularitiesView"
+- "loadViewFromNib"
+- "missingInfoButton"
+- "reportButtonAction"
+- "restButtonAction"
+- "restTextView"
+- "setup"
+- "spamButton"
+- "theRestTextView"
+- "wrongCategoryButton"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "Bundle"
+- "CGRect"
+- "CastingPrecedence"
+- "DLRadioButton"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "Irregularities"
+- "NSCoder"
+- "String"
+- !private "StringLiteralType"
+- "UIButton"
+- !private "UINib"
+- "UIStackView"
+- "UITextView"
+- "UIView"
+- !private "UnicodeScalarType"
+- !private "type"
+depends-member:
+- !private ["10Accelerate0A6BufferP", "first"]
+- !private ["10Accelerate0A6BufferP", "last"]
+- !private ["10Accelerate0A13MutableBufferP", "first"]
+- !private ["10Accelerate0A13MutableBufferP", "last"]
+- !private ["Sa", "first"]
+- !private ["Sa", "last"]
+- !private ["So18UIViewAutoresizingV", "flexibleHeight"]
+- !private ["So18UIViewAutoresizingV", "flexibleWidth"]
+- !private ["SK", "components"]
+- !private ["SK", "first"]
+- !private ["SK", "last"]
+- !private ["So8NSBundleC", "init"]
+- !private ["So15CALayerDelegateP", "AutoresizingMask"]
+- !private ["So15CALayerDelegateP", "Bundle"]
+- !private ["So15CALayerDelegateP", "CGRect"]
+- !private ["So15CALayerDelegateP", "UINib"]
+- !private ["So15CALayerDelegateP", "UIView"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "addSubview"]
+- !private ["So15CALayerDelegateP", "autoresizingMask"]
+- !private ["So15CALayerDelegateP", "closeButton"]
+- !private ["So15CALayerDelegateP", "description"]
+- !private ["So15CALayerDelegateP", "dissmissButton"]
+- !private ["So15CALayerDelegateP", "frame"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "irregularitiesView"]
+- !private ["So15CALayerDelegateP", "loadViewFromNib"]
+- !private ["So15CALayerDelegateP", "restTextView"]
+- !private ["So15CALayerDelegateP", "setup"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["So15CALayerDelegateP", "type"]
+- !private ["So6CGRectV", "init"]
+- !private ["s7CVarArgP", "AutoresizingMask"]
+- !private ["s7CVarArgP", "Bundle"]
+- !private ["s7CVarArgP", "CGRect"]
+- !private ["s7CVarArgP", "UINib"]
+- !private ["s7CVarArgP", "UIView"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "addSubview"]
+- !private ["s7CVarArgP", "autoresizingMask"]
+- !private ["s7CVarArgP", "closeButton"]
+- !private ["s7CVarArgP", "components"]
+- !private ["s7CVarArgP", "description"]
+- !private ["s7CVarArgP", "dissmissButton"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "frame"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "instantiate"]
+- !private ["s7CVarArgP", "irregularitiesView"]
+- !private ["s7CVarArgP", "last"]
+- !private ["s7CVarArgP", "loadViewFromNib"]
+- !private ["s7CVarArgP", "restTextView"]
+- !private ["s7CVarArgP", "setup"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "type"]
+- !private ["Sl", "components"]
+- !private ["Sl", "first"]
+- !private ["Sl", "last"]
+- !private ["SL", "components"]
+- !private ["10Foundation15ContiguousBytesP", "first"]
+- !private ["10Foundation15ContiguousBytesP", "last"]
+- !private ["s28CustomDebugStringConvertibleP", "AutoresizingMask"]
+- !private ["s28CustomDebugStringConvertibleP", "Bundle"]
+- !private ["s28CustomDebugStringConvertibleP", "CGRect"]
+- !private ["s28CustomDebugStringConvertibleP", "UINib"]
+- !private ["s28CustomDebugStringConvertibleP", "UIView"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addSubview"]
+- !private ["s28CustomDebugStringConvertibleP", "autoresizingMask"]
+- !private ["s28CustomDebugStringConvertibleP", "closeButton"]
+- !private ["s28CustomDebugStringConvertibleP", "components"]
+- !private ["s28CustomDebugStringConvertibleP", "description"]
+- !private ["s28CustomDebugStringConvertibleP", "dissmissButton"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "instantiate"]
+- !private ["s28CustomDebugStringConvertibleP", "irregularitiesView"]
+- !private ["s28CustomDebugStringConvertibleP", "last"]
+- !private ["s28CustomDebugStringConvertibleP", "loadViewFromNib"]
+- !private ["s28CustomDebugStringConvertibleP", "restTextView"]
+- !private ["s28CustomDebugStringConvertibleP", "setup"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "type"]
+- !private ["s17CustomReflectableP", "components"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "frame"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "last"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "AutoresizingMask"]
+- !private ["s23CustomStringConvertibleP", "Bundle"]
+- !private ["s23CustomStringConvertibleP", "CGRect"]
+- !private ["s23CustomStringConvertibleP", "UINib"]
+- !private ["s23CustomStringConvertibleP", "UIView"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "addSubview"]
+- !private ["s23CustomStringConvertibleP", "autoresizingMask"]
+- !private ["s23CustomStringConvertibleP", "closeButton"]
+- !private ["s23CustomStringConvertibleP", "components"]
+- !private ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "dissmissButton"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "instantiate"]
+- !private ["s23CustomStringConvertibleP", "irregularitiesView"]
+- !private ["s23CustomStringConvertibleP", "last"]
+- !private ["s23CustomStringConvertibleP", "loadViewFromNib"]
+- !private ["s23CustomStringConvertibleP", "restTextView"]
+- !private ["s23CustomStringConvertibleP", "setup"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "type"]
+- !private ["10Foundation12DataProtocolP", "first"]
+- !private ["10Foundation12DataProtocolP", "last"]
+- !private ["Se", "components"]
+- !private ["Se", "first"]
+- !private ["Se", "frame"]
+- !private ["Se", "init"]
+- !private ["Se", "last"]
+- !private ["Se", "text"]
+- !private ["SE", "components"]
+- !private ["SE", "first"]
+- !private ["SE", "frame"]
+- !private ["SE", "init"]
+- !private ["SE", "last"]
+- !private ["SE", "text"]
+- !private ["SQ", "AutoresizingMask"]
+- !private ["SQ", "Bundle"]
+- !private ["SQ", "CGRect"]
+- !private ["SQ", "UINib"]
+- !private ["SQ", "UIView"]
+- ["SQ", ""]
+- !private ["SQ", "addSubview"]
+- !private ["SQ", "autoresizingMask"]
+- !private ["SQ", "closeButton"]
+- !private ["SQ", "components"]
+- !private ["SQ", "description"]
+- !private ["SQ", "dissmissButton"]
+- !private ["SQ", "first"]
+- !private ["SQ", "flexibleHeight"]
+- !private ["SQ", "flexibleWidth"]
+- !private ["SQ", "frame"]
+- !private ["SQ", "init"]
+- !private ["SQ", "instantiate"]
+- !private ["SQ", "irregularitiesView"]
+- !private ["SQ", "last"]
+- !private ["SQ", "loadViewFromNib"]
+- !private ["SQ", "restTextView"]
+- !private ["SQ", "setup"]
+- !private ["SQ", "text"]
+- !private ["SQ", "type"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s25ExpressibleByArrayLiteralP", "flexibleHeight"]
+- !private ["s25ExpressibleByArrayLiteralP", "flexibleWidth"]
+- !private ["s25ExpressibleByArrayLiteralP", "last"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "components"]
+- !private ["s23ExpressibleByNilLiteralP", "frame"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s32ExpressibleByStringInterpolationP", "components"]
+- !private ["s26ExpressibleByStringLiteralP", "components"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "components"]
+- !private ["SH", "AutoresizingMask"]
+- !private ["SH", "Bundle"]
+- !private ["SH", "CGRect"]
+- !private ["SH", "UINib"]
+- !private ["SH", "UIView"]
+- ["SH", ""]
+- !private ["SH", "addSubview"]
+- !private ["SH", "autoresizingMask"]
+- !private ["SH", "closeButton"]
+- !private ["SH", "components"]
+- !private ["SH", "description"]
+- !private ["SH", "dissmissButton"]
+- !private ["SH", "first"]
+- !private ["SH", "frame"]
+- !private ["SH", "init"]
+- !private ["SH", "instantiate"]
+- !private ["SH", "irregularitiesView"]
+- !private ["SH", "last"]
+- !private ["SH", "loadViewFromNib"]
+- !private ["SH", "restTextView"]
+- !private ["SH", "setup"]
+- !private ["SH", "text"]
+- !private ["SH", "type"]
+- !private ["8Oglasnik14IrregularitiesC", "Bundle"]
+- ["8Oglasnik14IrregularitiesC", "CGRect"]
+- ["8Oglasnik14IrregularitiesC", "DLRadioButton"]
+- ["8Oglasnik14IrregularitiesC", "NSCoder"]
+- ["8Oglasnik14IrregularitiesC", "String"]
+- ["8Oglasnik14IrregularitiesC", "UIButton"]
+- !private ["8Oglasnik14IrregularitiesC", "UINib"]
+- ["8Oglasnik14IrregularitiesC", "UIStackView"]
+- ["8Oglasnik14IrregularitiesC", "UITextView"]
+- ["8Oglasnik14IrregularitiesC", "UIView"]
+- !private ["8Oglasnik14IrregularitiesC", "addSubview"]
+- ["8Oglasnik14IrregularitiesC", "closeButton"]
+- ["8Oglasnik14IrregularitiesC", "deinit"]
+- !private ["8Oglasnik14IrregularitiesC", "description"]
+- ["8Oglasnik14IrregularitiesC", "dissmissButton"]
+- ["8Oglasnik14IrregularitiesC", "duplicateButton"]
+- ["8Oglasnik14IrregularitiesC", "expiredButton"]
+- ["8Oglasnik14IrregularitiesC", "hideTextView"]
+- ["8Oglasnik14IrregularitiesC", "init"]
+- ["8Oglasnik14IrregularitiesC", "init"]
+- ["8Oglasnik14IrregularitiesC", "irregularitiesView"]
+- ["8Oglasnik14IrregularitiesC", "loadViewFromNib"]
+- ["8Oglasnik14IrregularitiesC", "missingInfoButton"]
+- ["8Oglasnik14IrregularitiesC", "reportButtonAction"]
+- ["8Oglasnik14IrregularitiesC", "restButtonAction"]
+- ["8Oglasnik14IrregularitiesC", "restTextView"]
+- ["8Oglasnik14IrregularitiesC", "setup"]
+- ["8Oglasnik14IrregularitiesC", "spamButton"]
+- ["8Oglasnik14IrregularitiesC", "theRestTextView"]
+- !private ["8Oglasnik14IrregularitiesC", "type"]
+- ["8Oglasnik14IrregularitiesC", "wrongCategoryButton"]
+- !private ["10Kingfisher0A10CompatibleP", "components"]
+- !private ["s25LosslessStringConvertibleP", "components"]
+- !private ["s10MirrorPathP", "components"]
+- !private ["SM", "first"]
+- !private ["SM", "last"]
+- !private ["10Foundation19MutableDataProtocolP", "first"]
+- !private ["10Foundation19MutableDataProtocolP", "last"]
+- !private ["So8NSCodingP", "AutoresizingMask"]
+- !private ["So8NSCodingP", "Bundle"]
+- !private ["So8NSCodingP", "CGRect"]
+- !private ["So8NSCodingP", "UINib"]
+- !private ["So8NSCodingP", "UIView"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addSubview"]
+- !private ["So8NSCodingP", "autoresizingMask"]
+- !private ["So8NSCodingP", "closeButton"]
+- !private ["So8NSCodingP", "components"]
+- !private ["So8NSCodingP", "description"]
+- !private ["So8NSCodingP", "dissmissButton"]
+- !private ["So8NSCodingP", "frame"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "irregularitiesView"]
+- !private ["So8NSCodingP", "loadViewFromNib"]
+- !private ["So8NSCodingP", "restTextView"]
+- !private ["So8NSCodingP", "setup"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "type"]
+- !private ["So9NSCopyingP", "components"]
+- !private ["So21NSItemProviderReadingP", "components"]
+- !private ["So21NSItemProviderWritingP", "components"]
+- !private ["So16NSMutableCopyingP", "components"]
+- !private ["So8NSObjectC", "AutoresizingMask"]
+- !private ["So8NSObjectC", "Bundle"]
+- ["So8NSObjectC", "CGRect"]
+- ["So8NSObjectC", "DLRadioButton"]
+- ["So8NSObjectC", "NSCoder"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UIButton"]
+- !private ["So8NSObjectC", "UINib"]
+- ["So8NSObjectC", "UIStackView"]
+- ["So8NSObjectC", "UITextView"]
+- ["So8NSObjectC", "UIView"]
+- !private ["So8NSObjectC", "addSubview"]
+- !private ["So8NSObjectC", "autoresizingMask"]
+- ["So8NSObjectC", "closeButton"]
+- !private ["So8NSObjectC", "components"]
+- !private ["So8NSObjectC", "description"]
+- ["So8NSObjectC", "dissmissButton"]
+- ["So8NSObjectC", "duplicateButton"]
+- ["So8NSObjectC", "expiredButton"]
+- !private ["So8NSObjectC", "frame"]
+- ["So8NSObjectC", "hideTextView"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "instantiate"]
+- ["So8NSObjectC", "irregularitiesView"]
+- ["So8NSObjectC", "loadViewFromNib"]
+- ["So8NSObjectC", "missingInfoButton"]
+- ["So8NSObjectC", "reportButtonAction"]
+- ["So8NSObjectC", "restButtonAction"]
+- ["So8NSObjectC", "restTextView"]
+- ["So8NSObjectC", "setup"]
+- ["So8NSObjectC", "spamButton"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "theRestTextView"]
+- !private ["So8NSObjectC", "type"]
+- ["So8NSObjectC", "wrongCategoryButton"]
+- !private ["So8NSObjectP", "AutoresizingMask"]
+- !private ["So8NSObjectP", "Bundle"]
+- !private ["So8NSObjectP", "CGRect"]
+- !private ["So8NSObjectP", "UINib"]
+- !private ["So8NSObjectP", "UIView"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addSubview"]
+- !private ["So8NSObjectP", "autoresizingMask"]
+- !private ["So8NSObjectP", "closeButton"]
+- !private ["So8NSObjectP", "components"]
+- !private ["So8NSObjectP", "description"]
+- !private ["So8NSObjectP", "dissmissButton"]
+- !private ["So8NSObjectP", "frame"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "instantiate"]
+- !private ["So8NSObjectP", "irregularitiesView"]
+- !private ["So8NSObjectP", "loadViewFromNib"]
+- !private ["So8NSObjectP", "restTextView"]
+- !private ["So8NSObjectP", "setup"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "type"]
+- !private ["So14NSSecureCodingP", "components"]
+- !private ["So8NSStringC", "components"]
+- !private ["s9OptionSetP", "flexibleHeight"]
+- !private ["s9OptionSetP", "flexibleWidth"]
+- !private ["Sq", "frame"]
+- !private ["Sq", "text"]
+- !private ["Sk", "first"]
+- !private ["Sk", "last"]
+- !private ["Sm", "components"]
+- !private ["Sm", "first"]
+- !private ["Sm", "last"]
+- !private ["SY", "flexibleHeight"]
+- !private ["SY", "flexibleWidth"]
+- !private ["ST", "components"]
+- !private ["ST", "first"]
+- !private ["ST", "last"]
+- !private ["s10SetAlgebraP", "flexibleHeight"]
+- !private ["s10SetAlgebraP", "flexibleWidth"]
+- !private ["SS", "components"]
+- !private ["Sy", "components"]
+- !private ["s16TextOutputStreamP", "components"]
+- !private ["s20TextOutputStreamableP", "components"]
+- !private ["So29UIAccessibilityIdentificationP", "AutoresizingMask"]
+- !private ["So29UIAccessibilityIdentificationP", "Bundle"]
+- !private ["So29UIAccessibilityIdentificationP", "CGRect"]
+- !private ["So29UIAccessibilityIdentificationP", "UINib"]
+- !private ["So29UIAccessibilityIdentificationP", "UIView"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "addSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "autoresizingMask"]
+- !private ["So29UIAccessibilityIdentificationP", "closeButton"]
+- !private ["So29UIAccessibilityIdentificationP", "description"]
+- !private ["So29UIAccessibilityIdentificationP", "dissmissButton"]
+- !private ["So29UIAccessibilityIdentificationP", "frame"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "irregularitiesView"]
+- !private ["So29UIAccessibilityIdentificationP", "loadViewFromNib"]
+- !private ["So29UIAccessibilityIdentificationP", "restTextView"]
+- !private ["So29UIAccessibilityIdentificationP", "setup"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So29UIAccessibilityIdentificationP", "type"]
+- !private ["So12UIAppearanceP", "AutoresizingMask"]
+- !private ["So12UIAppearanceP", "Bundle"]
+- !private ["So12UIAppearanceP", "CGRect"]
+- !private ["So12UIAppearanceP", "UINib"]
+- !private ["So12UIAppearanceP", "UIView"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "addSubview"]
+- !private ["So12UIAppearanceP", "autoresizingMask"]
+- !private ["So12UIAppearanceP", "closeButton"]
+- !private ["So12UIAppearanceP", "description"]
+- !private ["So12UIAppearanceP", "dissmissButton"]
+- !private ["So12UIAppearanceP", "frame"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "irregularitiesView"]
+- !private ["So12UIAppearanceP", "loadViewFromNib"]
+- !private ["So12UIAppearanceP", "restTextView"]
+- !private ["So12UIAppearanceP", "setup"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So12UIAppearanceP", "type"]
+- !private ["So21UIAppearanceContainerP", "AutoresizingMask"]
+- !private ["So21UIAppearanceContainerP", "Bundle"]
+- !private ["So21UIAppearanceContainerP", "CGRect"]
+- !private ["So21UIAppearanceContainerP", "UINib"]
+- !private ["So21UIAppearanceContainerP", "UIView"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "addSubview"]
+- !private ["So21UIAppearanceContainerP", "autoresizingMask"]
+- !private ["So21UIAppearanceContainerP", "closeButton"]
+- !private ["So21UIAppearanceContainerP", "description"]
+- !private ["So21UIAppearanceContainerP", "dissmissButton"]
+- !private ["So21UIAppearanceContainerP", "frame"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "irregularitiesView"]
+- !private ["So21UIAppearanceContainerP", "loadViewFromNib"]
+- !private ["So21UIAppearanceContainerP", "restTextView"]
+- !private ["So21UIAppearanceContainerP", "setup"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "type"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "AutoresizingMask"]
+- !private ["So17UICoordinateSpaceP", "Bundle"]
+- !private ["So17UICoordinateSpaceP", "CGRect"]
+- !private ["So17UICoordinateSpaceP", "UINib"]
+- !private ["So17UICoordinateSpaceP", "UIView"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "addSubview"]
+- !private ["So17UICoordinateSpaceP", "autoresizingMask"]
+- !private ["So17UICoordinateSpaceP", "closeButton"]
+- !private ["So17UICoordinateSpaceP", "description"]
+- !private ["So17UICoordinateSpaceP", "dissmissButton"]
+- !private ["So17UICoordinateSpaceP", "frame"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "irregularitiesView"]
+- !private ["So17UICoordinateSpaceP", "loadViewFromNib"]
+- !private ["So17UICoordinateSpaceP", "restTextView"]
+- !private ["So17UICoordinateSpaceP", "setup"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So17UICoordinateSpaceP", "type"]
+- !private ["So13UIDynamicItemP", "AutoresizingMask"]
+- !private ["So13UIDynamicItemP", "Bundle"]
+- !private ["So13UIDynamicItemP", "CGRect"]
+- !private ["So13UIDynamicItemP", "UINib"]
+- !private ["So13UIDynamicItemP", "UIView"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "addSubview"]
+- !private ["So13UIDynamicItemP", "autoresizingMask"]
+- !private ["So13UIDynamicItemP", "closeButton"]
+- !private ["So13UIDynamicItemP", "description"]
+- !private ["So13UIDynamicItemP", "dissmissButton"]
+- !private ["So13UIDynamicItemP", "frame"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "irregularitiesView"]
+- !private ["So13UIDynamicItemP", "loadViewFromNib"]
+- !private ["So13UIDynamicItemP", "restTextView"]
+- !private ["So13UIDynamicItemP", "setup"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So13UIDynamicItemP", "type"]
+- !private ["So18UIFocusEnvironmentP", "AutoresizingMask"]
+- !private ["So18UIFocusEnvironmentP", "Bundle"]
+- !private ["So18UIFocusEnvironmentP", "CGRect"]
+- !private ["So18UIFocusEnvironmentP", "UINib"]
+- !private ["So18UIFocusEnvironmentP", "UIView"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "addSubview"]
+- !private ["So18UIFocusEnvironmentP", "autoresizingMask"]
+- !private ["So18UIFocusEnvironmentP", "closeButton"]
+- !private ["So18UIFocusEnvironmentP", "description"]
+- !private ["So18UIFocusEnvironmentP", "dissmissButton"]
+- !private ["So18UIFocusEnvironmentP", "frame"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "irregularitiesView"]
+- !private ["So18UIFocusEnvironmentP", "loadViewFromNib"]
+- !private ["So18UIFocusEnvironmentP", "restTextView"]
+- !private ["So18UIFocusEnvironmentP", "setup"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "type"]
+- !private ["So11UIFocusItemP", "AutoresizingMask"]
+- !private ["So11UIFocusItemP", "Bundle"]
+- !private ["So11UIFocusItemP", "CGRect"]
+- !private ["So11UIFocusItemP", "UINib"]
+- !private ["So11UIFocusItemP", "UIView"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "addSubview"]
+- !private ["So11UIFocusItemP", "autoresizingMask"]
+- !private ["So11UIFocusItemP", "closeButton"]
+- !private ["So11UIFocusItemP", "description"]
+- !private ["So11UIFocusItemP", "dissmissButton"]
+- !private ["So11UIFocusItemP", "frame"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "irregularitiesView"]
+- !private ["So11UIFocusItemP", "loadViewFromNib"]
+- !private ["So11UIFocusItemP", "restTextView"]
+- !private ["So11UIFocusItemP", "setup"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So11UIFocusItemP", "type"]
+- !private ["So20UIFocusItemContainerP", "AutoresizingMask"]
+- !private ["So20UIFocusItemContainerP", "Bundle"]
+- !private ["So20UIFocusItemContainerP", "CGRect"]
+- !private ["So20UIFocusItemContainerP", "UINib"]
+- !private ["So20UIFocusItemContainerP", "UIView"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "addSubview"]
+- !private ["So20UIFocusItemContainerP", "autoresizingMask"]
+- !private ["So20UIFocusItemContainerP", "closeButton"]
+- !private ["So20UIFocusItemContainerP", "description"]
+- !private ["So20UIFocusItemContainerP", "dissmissButton"]
+- !private ["So20UIFocusItemContainerP", "frame"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "irregularitiesView"]
+- !private ["So20UIFocusItemContainerP", "loadViewFromNib"]
+- !private ["So20UIFocusItemContainerP", "restTextView"]
+- !private ["So20UIFocusItemContainerP", "setup"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So20UIFocusItemContainerP", "type"]
+- !private ["So30UIFocusItemScrollableContainerP", "text"]
+- !private ["So10UIKeyInputP", "text"]
+- !private ["So24UILargeContentViewerItemP", "AutoresizingMask"]
+- !private ["So24UILargeContentViewerItemP", "Bundle"]
+- !private ["So24UILargeContentViewerItemP", "CGRect"]
+- !private ["So24UILargeContentViewerItemP", "UINib"]
+- !private ["So24UILargeContentViewerItemP", "UIView"]
+- ["So24UILargeContentViewerItemP", ""]
+- !private ["So24UILargeContentViewerItemP", "addSubview"]
+- !private ["So24UILargeContentViewerItemP", "autoresizingMask"]
+- !private ["So24UILargeContentViewerItemP", "closeButton"]
+- !private ["So24UILargeContentViewerItemP", "description"]
+- !private ["So24UILargeContentViewerItemP", "dissmissButton"]
+- !private ["So24UILargeContentViewerItemP", "frame"]
+- !private ["So24UILargeContentViewerItemP", "init"]
+- !private ["So24UILargeContentViewerItemP", "irregularitiesView"]
+- !private ["So24UILargeContentViewerItemP", "loadViewFromNib"]
+- !private ["So24UILargeContentViewerItemP", "restTextView"]
+- !private ["So24UILargeContentViewerItemP", "setup"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- !private ["So24UILargeContentViewerItemP", "type"]
+- !private ["So5UINibC", "init"]
+- !private ["So5UINibC", "instantiate"]
+- !private ["So30UIPasteConfigurationSupportingP", "AutoresizingMask"]
+- !private ["So30UIPasteConfigurationSupportingP", "Bundle"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGRect"]
+- !private ["So30UIPasteConfigurationSupportingP", "UINib"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIView"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "addSubview"]
+- !private ["So30UIPasteConfigurationSupportingP", "autoresizingMask"]
+- !private ["So30UIPasteConfigurationSupportingP", "closeButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "description"]
+- !private ["So30UIPasteConfigurationSupportingP", "dissmissButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "frame"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "irregularitiesView"]
+- !private ["So30UIPasteConfigurationSupportingP", "loadViewFromNib"]
+- !private ["So30UIPasteConfigurationSupportingP", "restTextView"]
+- !private ["So30UIPasteConfigurationSupportingP", "setup"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "type"]
+- !private ["So11UIResponderC", "AutoresizingMask"]
+- !private ["So11UIResponderC", "Bundle"]
+- ["So11UIResponderC", "CGRect"]
+- ["So11UIResponderC", "DLRadioButton"]
+- ["So11UIResponderC", "NSCoder"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UIButton"]
+- !private ["So11UIResponderC", "UINib"]
+- ["So11UIResponderC", "UIStackView"]
+- ["So11UIResponderC", "UITextView"]
+- ["So11UIResponderC", "UIView"]
+- !private ["So11UIResponderC", "addSubview"]
+- !private ["So11UIResponderC", "autoresizingMask"]
+- ["So11UIResponderC", "closeButton"]
+- !private ["So11UIResponderC", "description"]
+- ["So11UIResponderC", "dissmissButton"]
+- ["So11UIResponderC", "duplicateButton"]
+- ["So11UIResponderC", "expiredButton"]
+- !private ["So11UIResponderC", "frame"]
+- ["So11UIResponderC", "hideTextView"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "irregularitiesView"]
+- ["So11UIResponderC", "loadViewFromNib"]
+- ["So11UIResponderC", "missingInfoButton"]
+- ["So11UIResponderC", "reportButtonAction"]
+- ["So11UIResponderC", "restButtonAction"]
+- ["So11UIResponderC", "restTextView"]
+- ["So11UIResponderC", "setup"]
+- ["So11UIResponderC", "spamButton"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "theRestTextView"]
+- !private ["So11UIResponderC", "type"]
+- ["So11UIResponderC", "wrongCategoryButton"]
+- !private ["So30UIResponderStandardEditActionsP", "AutoresizingMask"]
+- !private ["So30UIResponderStandardEditActionsP", "Bundle"]
+- !private ["So30UIResponderStandardEditActionsP", "CGRect"]
+- !private ["So30UIResponderStandardEditActionsP", "UINib"]
+- !private ["So30UIResponderStandardEditActionsP", "UIView"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "addSubview"]
+- !private ["So30UIResponderStandardEditActionsP", "autoresizingMask"]
+- !private ["So30UIResponderStandardEditActionsP", "closeButton"]
+- !private ["So30UIResponderStandardEditActionsP", "description"]
+- !private ["So30UIResponderStandardEditActionsP", "dissmissButton"]
+- !private ["So30UIResponderStandardEditActionsP", "frame"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "irregularitiesView"]
+- !private ["So30UIResponderStandardEditActionsP", "loadViewFromNib"]
+- !private ["So30UIResponderStandardEditActionsP", "restTextView"]
+- !private ["So30UIResponderStandardEditActionsP", "setup"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "type"]
+- !private ["So12UIScrollViewC", "text"]
+- !private ["So15UITextDraggableP", "text"]
+- !private ["So15UITextDroppableP", "text"]
+- !private ["So11UITextInputP", "text"]
+- !private ["So17UITextInputTraitsP", "text"]
+- !private ["So34UITextPasteConfigurationSupportingP", "text"]
+- !private ["So10UITextViewC", "text"]
+- !private ["So18UITraitEnvironmentP", "AutoresizingMask"]
+- !private ["So18UITraitEnvironmentP", "Bundle"]
+- !private ["So18UITraitEnvironmentP", "CGRect"]
+- !private ["So18UITraitEnvironmentP", "UINib"]
+- !private ["So18UITraitEnvironmentP", "UIView"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "addSubview"]
+- !private ["So18UITraitEnvironmentP", "autoresizingMask"]
+- !private ["So18UITraitEnvironmentP", "closeButton"]
+- !private ["So18UITraitEnvironmentP", "description"]
+- !private ["So18UITraitEnvironmentP", "dissmissButton"]
+- !private ["So18UITraitEnvironmentP", "frame"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "irregularitiesView"]
+- !private ["So18UITraitEnvironmentP", "loadViewFromNib"]
+- !private ["So18UITraitEnvironmentP", "restTextView"]
+- !private ["So18UITraitEnvironmentP", "setup"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "type"]
+- !private ["So23UIUserActivityRestoringP", "AutoresizingMask"]
+- !private ["So23UIUserActivityRestoringP", "Bundle"]
+- !private ["So23UIUserActivityRestoringP", "CGRect"]
+- !private ["So23UIUserActivityRestoringP", "UINib"]
+- !private ["So23UIUserActivityRestoringP", "UIView"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "addSubview"]
+- !private ["So23UIUserActivityRestoringP", "autoresizingMask"]
+- !private ["So23UIUserActivityRestoringP", "closeButton"]
+- !private ["So23UIUserActivityRestoringP", "description"]
+- !private ["So23UIUserActivityRestoringP", "dissmissButton"]
+- !private ["So23UIUserActivityRestoringP", "frame"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "irregularitiesView"]
+- !private ["So23UIUserActivityRestoringP", "loadViewFromNib"]
+- !private ["So23UIUserActivityRestoringP", "restTextView"]
+- !private ["So23UIUserActivityRestoringP", "setup"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "type"]
+- !private ["So6UIViewC", "AutoresizingMask"]
+- !private ["So6UIViewC", "Bundle"]
+- ["So6UIViewC", "CGRect"]
+- ["So6UIViewC", "DLRadioButton"]
+- ["So6UIViewC", "NSCoder"]
+- ["So6UIViewC", "String"]
+- ["So6UIViewC", "UIButton"]
+- !private ["So6UIViewC", "UINib"]
+- ["So6UIViewC", "UIStackView"]
+- ["So6UIViewC", "UITextView"]
+- ["So6UIViewC", "UIView"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "addSubview"]
+- !private ["So6UIViewC", "autoresizingMask"]
+- ["So6UIViewC", "closeButton"]
+- !private ["So6UIViewC", "description"]
+- ["So6UIViewC", "dissmissButton"]
+- ["So6UIViewC", "duplicateButton"]
+- ["So6UIViewC", "expiredButton"]
+- !private ["So6UIViewC", "frame"]
+- ["So6UIViewC", "hideTextView"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "irregularitiesView"]
+- ["So6UIViewC", "loadViewFromNib"]
+- ["So6UIViewC", "missingInfoButton"]
+- ["So6UIViewC", "reportButtonAction"]
+- ["So6UIViewC", "restButtonAction"]
+- ["So6UIViewC", "restTextView"]
+- ["So6UIViewC", "setup"]
+- ["So6UIViewC", "spamButton"]
+- !private ["So6UIViewC", "text"]
+- ["So6UIViewC", "theRestTextView"]
+- !private ["So6UIViewC", "type"]
+- ["So6UIViewC", "wrongCategoryButton"]
+- !private ["9Alamofire14URLConvertibleP", "components"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s14_ArrayProtocolP", "last"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "components"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s24_DestructorSafeContainerP", "last"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "components"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "components"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "components"]
+- !private ["s19_HasContiguousBytesP", "components"]
+- !private ["s19_HasContiguousBytesP", "first"]
+- !private ["s19_HasContiguousBytesP", "last"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "components"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "last"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "AutoresizingMask"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Bundle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGRect"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UINib"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addSubview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "autoresizingMask"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "closeButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "components"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "description"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dissmissButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "instantiate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "irregularitiesView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "loadViewFromNib"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "restTextView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setup"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "type"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "AutoresizingMask"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Bundle"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "CGRect"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UINib"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIView"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "addSubview"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "autoresizingMask"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "closeButton"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "components"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "description"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "dissmissButton"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "frame"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "instantiate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "irregularitiesView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "loadViewFromNib"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "restTextView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setup"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "type"]
+- !private ["s21_ObjectiveCBridgeableP", "components"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "frame"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "last"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "AutoresizingMask"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "Bundle"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "CGRect"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "UINib"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "UIView"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "addSubview"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "autoresizingMask"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "closeButton"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "description"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "dissmissButton"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "frame"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "irregularitiesView"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "loadViewFromNib"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "restTextView"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "setup"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "type"]
+depends-nominal:
+- !private "10Accelerate0A6BufferP"
+- !private "10Accelerate0A13MutableBufferP"
+- !private "Sa"
+- !private "So18UIViewAutoresizingV"
+- !private "SK"
+- !private "So8NSBundleC"
+- "So15CALayerDelegateP"
+- !private "So6CGRectV"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "8Oglasnik14IrregularitiesC"
+- !private "10Kingfisher0A10CompatibleP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "ST"
+- !private "s10SetAlgebraP"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- !private "So30UIFocusItemScrollableContainerP"
+- !private "So10UIKeyInputP"
+- "So24UILargeContentViewerItemP"
+- !private "So5UINibC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So12UIScrollViewC"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- !private "So10UITextViewC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "9Alamofire14URLConvertibleP"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreData.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Accelerate.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Modules/PasswordTextField.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Modules/SkyFloatingLabelTextField.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules/AlamofireImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SMIconLabel/SMIconLabel.framework/Modules/SMIconLabel.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Modules/ObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Modules/AlamofireObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Modules/IQKeyboardManagerSwift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Headers/PasswordTextField-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Headers/SkyFloatingLabelTextField-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SMIconLabel/SMIconLabel.framework/Headers/SMIconLabel-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/DLRadioButton/DLRadioButton.framework/Headers/DLRadioButton-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/KIImagePager/KIImagePager.framework/Headers/KIImagePager-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Headers/ObjectMapper-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMCheckBox-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Headers/PasswordTextField.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/DLRadioButton/DLRadioButton.framework/Headers/DLRadioButton.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMCheckBoxGroup.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Oglasnik/MySideMenu/Oglasnik-Bridging-Header.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/KIImagePager/KIImagePager.framework/Headers/KIImagePager.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMPathManager.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMAnimationManager.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Oglasnik/MySideMenu/MMDrawerController.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Headers/PasswordTextField-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Headers/SkyFloatingLabelTextField-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SMIconLabel/SMIconLabel.framework/Headers/SMIconLabel-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Headers/ObjectMapper-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMCheckBox.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SMIconLabel/SMIconLabel.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/DLRadioButton/DLRadioButton.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/KIImagePager/KIImagePager.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "2fb414eaab0d6a08fbc253d47f3ab126"

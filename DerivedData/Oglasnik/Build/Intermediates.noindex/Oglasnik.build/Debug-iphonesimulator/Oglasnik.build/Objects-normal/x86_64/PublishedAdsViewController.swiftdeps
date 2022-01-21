@@ -1,0 +1,385 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PublishedAdsViewController"
+provides-nominal:
+- "8Oglasnik26PublishedAdsViewControllerC"
+provides-member:
+- ["8Oglasnik26PublishedAdsViewControllerC", ""]
+provides-dynamic-lookup:
+- "URL_FROM_AD"
+- "didReceiveMemoryWarning"
+- "viewDidLoad"
+- "webView"
+depends-top-level:
+- "CastingPrecedence"
+- !private "NSURL"
+- "PublishedAdsViewController"
+- "String"
+- "StringLiteralType"
+- "UIViewController"
+- "UIWebView"
+- !private "URL"
+- !private "URLRequest"
+depends-member:
+- !private ["So15CALayerDelegateP", "loadRequest"]
+- !private ["s7CVarArgP", "NSURL"]
+- !private ["s7CVarArgP", "URLRequest"]
+- !private ["s7CVarArgP", "URL_FROM_AD"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "loadRequest"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s7CVarArgP", "webView"]
+- !private ["s28CustomDebugStringConvertibleP", "NSURL"]
+- !private ["s28CustomDebugStringConvertibleP", "URLRequest"]
+- !private ["s28CustomDebugStringConvertibleP", "URL_FROM_AD"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "loadRequest"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "webView"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "loadRequest"]
+- !private ["s23CustomStringConvertibleP", "NSURL"]
+- !private ["s23CustomStringConvertibleP", "URLRequest"]
+- !private ["s23CustomStringConvertibleP", "URL_FROM_AD"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "loadRequest"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "webView"]
+- !private ["Se", "loadRequest"]
+- !private ["SE", "loadRequest"]
+- !private ["SQ", "NSURL"]
+- !private ["SQ", "URLRequest"]
+- !private ["SQ", "URL_FROM_AD"]
+- ["SQ", ""]
+- !private ["SQ", "didReceiveMemoryWarning"]
+- !private ["SQ", "init"]
+- !private ["SQ", "loadRequest"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["SQ", "webView"]
+- !private ["s23ExpressibleByNilLiteralP", "loadRequest"]
+- !private ["SH", "NSURL"]
+- !private ["SH", "URLRequest"]
+- !private ["SH", "URL_FROM_AD"]
+- ["SH", ""]
+- !private ["SH", "didReceiveMemoryWarning"]
+- !private ["SH", "init"]
+- !private ["SH", "loadRequest"]
+- !private ["SH", "viewDidLoad"]
+- !private ["SH", "webView"]
+- !private ["So8NSCodingP", "NSURL"]
+- !private ["So8NSCodingP", "URLRequest"]
+- !private ["So8NSCodingP", "URL_FROM_AD"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "loadRequest"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So8NSCodingP", "webView"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "NSURL"]
+- !private ["So26NSExtensionRequestHandlingP", "URLRequest"]
+- !private ["So26NSExtensionRequestHandlingP", "URL_FROM_AD"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "webView"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So8NSObjectC", "NSURL"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UIWebView"]
+- !private ["So8NSObjectC", "URL"]
+- !private ["So8NSObjectC", "URLRequest"]
+- ["So8NSObjectC", "URL_FROM_AD"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "loadRequest"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectC", "webView"]
+- !private ["So8NSObjectP", "NSURL"]
+- !private ["So8NSObjectP", "URLRequest"]
+- !private ["So8NSObjectP", "URL_FROM_AD"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "didReceiveMemoryWarning"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "loadRequest"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So8NSObjectP", "webView"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So5NSURLC", "init"]
+- !private ["Sq", "loadRequest"]
+- !private ["8Oglasnik26PublishedAdsViewControllerC", "NSURL"]
+- ["8Oglasnik26PublishedAdsViewControllerC", "String"]
+- ["8Oglasnik26PublishedAdsViewControllerC", "UIWebView"]
+- !private ["8Oglasnik26PublishedAdsViewControllerC", "URL"]
+- !private ["8Oglasnik26PublishedAdsViewControllerC", "URLRequest"]
+- ["8Oglasnik26PublishedAdsViewControllerC", "URL_FROM_AD"]
+- ["8Oglasnik26PublishedAdsViewControllerC", "deinit"]
+- ["8Oglasnik26PublishedAdsViewControllerC", "didReceiveMemoryWarning"]
+- ["8Oglasnik26PublishedAdsViewControllerC", "init"]
+- ["8Oglasnik26PublishedAdsViewControllerC", "viewDidLoad"]
+- ["8Oglasnik26PublishedAdsViewControllerC", "webView"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "loadRequest"]
+- !private ["So12UIAppearanceP", "loadRequest"]
+- !private ["So21UIAppearanceContainerP", "NSURL"]
+- !private ["So21UIAppearanceContainerP", "URLRequest"]
+- !private ["So21UIAppearanceContainerP", "URL_FROM_AD"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "loadRequest"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So21UIAppearanceContainerP", "webView"]
+- !private ["So18UIContentContainerP", "NSURL"]
+- !private ["So18UIContentContainerP", "URLRequest"]
+- !private ["So18UIContentContainerP", "URL_FROM_AD"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "webView"]
+- !private ["So17UICoordinateSpaceP", "loadRequest"]
+- !private ["So13UIDynamicItemP", "loadRequest"]
+- !private ["So18UIFocusEnvironmentP", "NSURL"]
+- !private ["So18UIFocusEnvironmentP", "URLRequest"]
+- !private ["So18UIFocusEnvironmentP", "URL_FROM_AD"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "loadRequest"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So18UIFocusEnvironmentP", "webView"]
+- !private ["So11UIFocusItemP", "loadRequest"]
+- !private ["So20UIFocusItemContainerP", "loadRequest"]
+- !private ["So24UILargeContentViewerItemP", "loadRequest"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSURL"]
+- !private ["So30UIPasteConfigurationSupportingP", "URLRequest"]
+- !private ["So30UIPasteConfigurationSupportingP", "URL_FROM_AD"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "loadRequest"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So30UIPasteConfigurationSupportingP", "webView"]
+- !private ["So11UIResponderC", "NSURL"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UIWebView"]
+- !private ["So11UIResponderC", "URL"]
+- !private ["So11UIResponderC", "URLRequest"]
+- ["So11UIResponderC", "URL_FROM_AD"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "loadRequest"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So11UIResponderC", "webView"]
+- !private ["So30UIResponderStandardEditActionsP", "NSURL"]
+- !private ["So30UIResponderStandardEditActionsP", "URLRequest"]
+- !private ["So30UIResponderStandardEditActionsP", "URL_FROM_AD"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "loadRequest"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "webView"]
+- !private ["So20UIScrollViewDelegateP", "loadRequest"]
+- !private ["So16UIStateRestoringP", "NSURL"]
+- !private ["So16UIStateRestoringP", "URLRequest"]
+- !private ["So16UIStateRestoringP", "URL_FROM_AD"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "webView"]
+- !private ["So18UITraitEnvironmentP", "NSURL"]
+- !private ["So18UITraitEnvironmentP", "URLRequest"]
+- !private ["So18UITraitEnvironmentP", "URL_FROM_AD"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "loadRequest"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "webView"]
+- !private ["So23UIUserActivityRestoringP", "NSURL"]
+- !private ["So23UIUserActivityRestoringP", "URLRequest"]
+- !private ["So23UIUserActivityRestoringP", "URL_FROM_AD"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "didReceiveMemoryWarning"]
+- !private ["So23UIUserActivityRestoringP", "loadRequest"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "webView"]
+- !private ["So6UIViewC", "loadRequest"]
+- !private ["So16UIViewControllerC", "NSURL"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "UIWebView"]
+- !private ["So16UIViewControllerC", "URL"]
+- !private ["So16UIViewControllerC", "URLRequest"]
+- ["So16UIViewControllerC", "URL_FROM_AD"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", "webView"]
+- !private ["So9UIWebViewC", "loadRequest"]
+- !private ["10Foundation10URLRequestV", "init"]
+- !private ["9Alamofire21URLRequestConvertibleP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSURL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "URLRequest"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "URL_FROM_AD"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "loadRequest"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "webView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "NSURL"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "URLRequest"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "URL_FROM_AD"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "loadRequest"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "webView"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "loadRequest"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "loadRequest"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So5NSURLC"
+- !private "Sq"
+- "8Oglasnik26PublishedAdsViewControllerC"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So20UIScrollViewDelegateP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "So9UIWebViewC"
+- !private "10Foundation10URLRequestV"
+- !private "9Alamofire21URLRequestConvertibleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreData.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Accelerate.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Modules/PasswordTextField.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Modules/SkyFloatingLabelTextField.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules/AlamofireImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SMIconLabel/SMIconLabel.framework/Modules/SMIconLabel.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Modules/ObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Modules/AlamofireObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Modules/IQKeyboardManagerSwift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Headers/PasswordTextField-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Headers/SkyFloatingLabelTextField-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SMIconLabel/SMIconLabel.framework/Headers/SMIconLabel-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/DLRadioButton/DLRadioButton.framework/Headers/DLRadioButton-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/KIImagePager/KIImagePager.framework/Headers/KIImagePager-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Headers/ObjectMapper-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMCheckBox-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Headers/PasswordTextField.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/DLRadioButton/DLRadioButton.framework/Headers/DLRadioButton.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMCheckBoxGroup.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Oglasnik/MySideMenu/Oglasnik-Bridging-Header.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/KIImagePager/KIImagePager.framework/Headers/KIImagePager.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMPathManager.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMAnimationManager.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Oglasnik/MySideMenu/MMDrawerController.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Headers/PasswordTextField-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Headers/SkyFloatingLabelTextField-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SMIconLabel/SMIconLabel.framework/Headers/SMIconLabel-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Headers/ObjectMapper-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMCheckBox.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/SMIconLabel/SMIconLabel.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/DLRadioButton/DLRadioButton.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/KIImagePager/KIImagePager.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "5ce1f8dbc0bfc2d6e67e462526d2ab07"

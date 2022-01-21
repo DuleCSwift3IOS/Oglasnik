@@ -1,0 +1,126 @@
+/* 
+  Localizable.strings
+  Oglasnik
+
+  Created by Dushko Cizaloski on 12/12/18.
+  Copyright © 2018 Big Nerd Ranch. All rights reserved.
+*/
+
+"Publish Ad" = "Publish Ad";
+/* Class = "UILabel"; text = "Autos"; ObjectID = "eLA-wa-eEs"; */
+"Autos" = "Autos";
+/* Class = "UILabel"; text = "Mobiles"; ObjectID = "DSf-iO-EZ5"; */
+"Mobiles" = "Mobiles";
+/* Class = "UILabel"; text = "Electronics"; ObjectID = "jPs-t4-Y8u"; */
+"Electronics" = "Electronics";
+/* Class = "UILabel"; text = "Real Estates"; ObjectID = "tT5-hH-n7A"; */
+"Real Estates" = "Real Estates";
+/* Class = "UILabel"; text = "Pets"; ObjectID = "sSv-2Q-Cmi"; */
+"Pets" = "Pets";
+/* Class = "UILabel"; text = "Jobs"; ObjectID = "QJb-am-AEs"; */
+"Jobs" = "Jobs";
+/* Class = "UILabel"; text = "Events"; ObjectID = "b6V-Zp-t4l"; */
+"Events" = "Events";
+/* Class = "UILabel"; text = "All Ads"; ObjectID = "YbT-6d-xKm"; */
+"All Ads" = "All Ads";
+/* Class = "UINavigationItem"; text="Menu";  */
+"nav_title_bilbord" = "Bilbord";
+/*Class = "UIButton"; text = "Public Ad"; ObjectID = "QAE-vH-ofG";*/
+//change button from english to macedonian
+"MenuLang" = "macedonian_flag_language";
+//Edit Add
+/* Class = "UIButton"; text = "Public Ad"; ObjectID = "gcX-fE-tLp"; */
+"Publish Listing" = "Publish Listing";
+"Title of advertisment" = "Title of advertisment";
+"Categories" = "Categories";
+"AdType" = "AdType";
+"BrandModel" = "BrandModel";
+"Fuel" = "Fuel";
+"Color" = "Color";
+"Consumption of L/100km" = "Consumption of L/100km";
+"Year of product" = "Year of product";
+"Spent mails" = "Spent mails";
+"Gearbox" = "Gearbox";
+"Area" = "Area";
+"Number of Rooms" = "Number of Rooms";
+"Floor" = "Floor";
+"Settlement" = "Settlement";
+"Number of Floors" = "Number of Floors";
+"Local" = "Local";
+"Begin" = "Begin";
+"End" = "End";
+"FB Event" = "FB Event";
+"Price" = "Price";
+"Valute" = "Valute";
+"Attach Images" = "Attach a photo our recommendation is to attach at least 3 images for the advertisment to get a more appeling look.";
+"Description" = "Description";
+"Choose Image" = "Choose Image";
+"Quantity" = "Quantity";
+"Old/New" = "Old/New";
+"Region" = "Region";
+"Video" = "Video";
+"FullName" = "FullName";
+"Phone number" = "Phone number";
+"User Emails" = "User Emails";
+"Your facebook link" = "Your facebook link";
+"Conditional" = "I agree with the";
+"ConditionalTerms" = "terms of use";
+"Confirm" = "Confirm";
+"Contact Us" = "Contact Us";
+"Contact us and we will answer you as soon as we can" = "Contact us and we will answer you as soon as we can";
+"Enter your message to us" = "Enter your message to us";
+"Sent" = "Sent";
+//LeftSideMenu
+"Home" = "Home";
+"Publish Ad" = "Publsih Ad";
+"All Ads" = "All Ads";
+"Events" = "Events";
+"My Ads" = "My Ads";
+"Favorite Ads" = "Favorite Ads";
+"Options" = "Options";
+"Contact Us" = "Contact Us";
+"Login" = "Login";
+"Registration" = "Registration";
+"Desing by Dushko Cizaloski -> Best Net Studio" = "Desing by Dushko Cizaloski -> Best Net Studio";
+//MyProfileTableView
+"User Bill" = "User Bill";
+"Change Password" = "Change Password";
+//ChangeProfilePassword
+"Change Password" = "Change Password";
+"Old Password" = "Old Password";
+"New Password" = "New Password";
+"Confirm Password" = "Confirm Password";
+"Change" = "Change";
+"Enter old password" = "Enter old password";
+"Enter new password" = "Enter new password";
+"Enter confirm password" = "Enter confirm password";
+"BilbordMk" = "BilbordMk";
+//ProfileBillViewController
+"My Profile" = "My Profile";
+"Hello" = "Hello";
+"You are last seen before" = "You are last seen before";
+"Full Name" = "Full Name";
+"E-Mail" = "E-Mail";
+"Phone" = "Phone";
+"Choose your Profile Image" = "Choose your Profile Image";
+" Choose Image " = " Choose Image ";
+" Change " = " Change ";
+"For changing on e-mail please" = "For chaning on e-mail please";
+"contact us" = "contact us";
+//LoginFormViewController
+"UserAccountLabel" = "User Account";
+"userNameLabel" = "Username";
+"passwordLabel" = "Password";
+"loginButton" = "Login";
+"registartionUserButton" = "Please make registration here!";
+"forgottUserPasswordButton" = "Forgotten Password!";
+"userNameTextField" = "Enter Email or Username";
+"userPasswordTextField" = "Enter your password";
+//RegistrationFormViewController
+"FirstNameTextField" = "Enter FirstName";
+"phoneTextField" = "Enter Phone";
+"mailTextFIeld" = "Enter Mail";
+"paswordTextField" = "Enter Password";
+"confirmPasswordTextField" = "Enter Confirm Password";
+"Registrated" = "Registrated";
+"MakeRegistration" = "MAKE REGISTRATION";

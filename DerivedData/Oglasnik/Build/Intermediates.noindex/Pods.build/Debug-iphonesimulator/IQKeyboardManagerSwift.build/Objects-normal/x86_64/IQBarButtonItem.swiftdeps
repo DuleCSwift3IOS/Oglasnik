@@ -1,0 +1,465 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "IQBarButtonItem"
+provides-nominal:
+- "22IQKeyboardManagerSwift15IQBarButtonItemC"
+provides-member:
+- ["22IQKeyboardManagerSwift15IQBarButtonItemC", ""]
+provides-dynamic-lookup:
+- "_classInitialize"
+- "classInitialize"
+- "invocation"
+- "isSystemItem"
+- "setTarget"
+depends-top-level:
+- "AnyObject"
+- "AssignmentPrecedence"
+- "BooleanLiteralType"
+- !private "FloatLiteralType"
+- "IQBarButtonItem"
+- !private "IntegerLiteralType"
+- "NSCoder"
+- "Selector"
+- "UIBarButtonItem"
+- !private "UIControl"
+- !private "UIOffset"
+- "Void"
+depends-member:
+- !private ["So15CALayerDelegateP", "State"]
+- !private ["s7CVarArgP", "IQBarButtonItem"]
+- !private ["s7CVarArgP", "State"]
+- !private ["s7CVarArgP", "UIOffset"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_classInitialize"]
+- !private ["s7CVarArgP", "appearance"]
+- ["s7CVarArgP", "classInitialize"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "invocation"]
+- !private ["s7CVarArgP", "setBackButtonBackgroundImage"]
+- !private ["s7CVarArgP", "setBackButtonBackgroundVerticalPositionAdjustment"]
+- !private ["s7CVarArgP", "setBackButtonTitlePositionAdjustment"]
+- !private ["s7CVarArgP", "setBackgroundImage"]
+- !private ["s7CVarArgP", "setBackgroundVerticalPositionAdjustment"]
+- !private ["s7CVarArgP", "setTitlePositionAdjustment"]
+- !private ["s7CVarArgP", "setTitleTextAttributes"]
+- !private ["s7CVarArgP", "tintColor"]
+- !private ["s28CustomDebugStringConvertibleP", "IQBarButtonItem"]
+- !private ["s28CustomDebugStringConvertibleP", "State"]
+- !private ["s28CustomDebugStringConvertibleP", "UIOffset"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "_classInitialize"]
+- !private ["s28CustomDebugStringConvertibleP", "appearance"]
+- ["s28CustomDebugStringConvertibleP", "classInitialize"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "invocation"]
+- !private ["s28CustomDebugStringConvertibleP", "setBackButtonBackgroundImage"]
+- !private ["s28CustomDebugStringConvertibleP", "setBackButtonBackgroundVerticalPositionAdjustment"]
+- !private ["s28CustomDebugStringConvertibleP", "setBackButtonTitlePositionAdjustment"]
+- !private ["s28CustomDebugStringConvertibleP", "setBackgroundImage"]
+- !private ["s28CustomDebugStringConvertibleP", "setBackgroundVerticalPositionAdjustment"]
+- !private ["s28CustomDebugStringConvertibleP", "setTitlePositionAdjustment"]
+- !private ["s28CustomDebugStringConvertibleP", "setTitleTextAttributes"]
+- !private ["s28CustomDebugStringConvertibleP", "tintColor"]
+- !private ["s23CustomStringConvertibleP", "IQBarButtonItem"]
+- !private ["s23CustomStringConvertibleP", "State"]
+- !private ["s23CustomStringConvertibleP", "UIOffset"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_classInitialize"]
+- !private ["s23CustomStringConvertibleP", "appearance"]
+- ["s23CustomStringConvertibleP", "classInitialize"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "invocation"]
+- !private ["s23CustomStringConvertibleP", "setBackButtonBackgroundImage"]
+- !private ["s23CustomStringConvertibleP", "setBackButtonBackgroundVerticalPositionAdjustment"]
+- !private ["s23CustomStringConvertibleP", "setBackButtonTitlePositionAdjustment"]
+- !private ["s23CustomStringConvertibleP", "setBackgroundImage"]
+- !private ["s23CustomStringConvertibleP", "setBackgroundVerticalPositionAdjustment"]
+- !private ["s23CustomStringConvertibleP", "setTitlePositionAdjustment"]
+- !private ["s23CustomStringConvertibleP", "setTitleTextAttributes"]
+- !private ["s23CustomStringConvertibleP", "tintColor"]
+- !private ["Se", "zero"]
+- !private ["SE", "zero"]
+- !private ["SQ", "IQBarButtonItem"]
+- !private ["SQ", "State"]
+- !private ["SQ", "UIOffset"]
+- ["SQ", ""]
+- !private ["SQ", "_classInitialize"]
+- !private ["SQ", "appearance"]
+- !private ["SQ", "application"]
+- ["SQ", "classInitialize"]
+- !private ["SQ", "default"]
+- !private ["SQ", "disabled"]
+- !private ["SQ", "done"]
+- !private ["SQ", "highlighted"]
+- !private ["SQ", "init"]
+- !private ["SQ", "invocation"]
+- !private ["SQ", "normal"]
+- !private ["SQ", "plain"]
+- !private ["SQ", "reserved"]
+- !private ["SQ", "selected"]
+- !private ["SQ", "setBackButtonBackgroundImage"]
+- !private ["SQ", "setBackButtonBackgroundVerticalPositionAdjustment"]
+- !private ["SQ", "setBackButtonTitlePositionAdjustment"]
+- !private ["SQ", "setBackgroundImage"]
+- !private ["SQ", "setBackgroundVerticalPositionAdjustment"]
+- !private ["SQ", "setTitlePositionAdjustment"]
+- !private ["SQ", "setTitleTextAttributes"]
+- !private ["SQ", "tintColor"]
+- !private ["SQ", "zero"]
+- !private ["s25ExpressibleByArrayLiteralP", "application"]
+- !private ["s25ExpressibleByArrayLiteralP", "disabled"]
+- !private ["s25ExpressibleByArrayLiteralP", "highlighted"]
+- !private ["s25ExpressibleByArrayLiteralP", "normal"]
+- !private ["s25ExpressibleByArrayLiteralP", "reserved"]
+- !private ["s25ExpressibleByArrayLiteralP", "selected"]
+- !private ["SH", "IQBarButtonItem"]
+- !private ["SH", "State"]
+- !private ["SH", "UIOffset"]
+- ["SH", ""]
+- !private ["SH", "_classInitialize"]
+- !private ["SH", "appearance"]
+- ["SH", "classInitialize"]
+- !private ["SH", "default"]
+- !private ["SH", "done"]
+- !private ["SH", "init"]
+- !private ["SH", "invocation"]
+- !private ["SH", "plain"]
+- !private ["SH", "setBackButtonBackgroundImage"]
+- !private ["SH", "setBackButtonBackgroundVerticalPositionAdjustment"]
+- !private ["SH", "setBackButtonTitlePositionAdjustment"]
+- !private ["SH", "setBackgroundImage"]
+- !private ["SH", "setBackgroundVerticalPositionAdjustment"]
+- !private ["SH", "setTitlePositionAdjustment"]
+- !private ["SH", "setTitleTextAttributes"]
+- !private ["SH", "tintColor"]
+- ["22IQKeyboardManagerSwift15IQBarButtonItemC", "AnyObject"]
+- !private ["22IQKeyboardManagerSwift15IQBarButtonItemC", "IQBarButtonItem"]
+- ["22IQKeyboardManagerSwift15IQBarButtonItemC", "NSCoder"]
+- ["22IQKeyboardManagerSwift15IQBarButtonItemC", "Selector"]
+- !private ["22IQKeyboardManagerSwift15IQBarButtonItemC", "UIControl"]
+- !private ["22IQKeyboardManagerSwift15IQBarButtonItemC", "UIOffset"]
+- ["22IQKeyboardManagerSwift15IQBarButtonItemC", "Void"]
+- !private ["22IQKeyboardManagerSwift15IQBarButtonItemC", "_classInitialize"]
+- !private ["22IQKeyboardManagerSwift15IQBarButtonItemC", "appearance"]
+- ["22IQKeyboardManagerSwift15IQBarButtonItemC", "classInitialize"]
+- ["22IQKeyboardManagerSwift15IQBarButtonItemC", "deinit"]
+- ["22IQKeyboardManagerSwift15IQBarButtonItemC", "init"]
+- ["22IQKeyboardManagerSwift15IQBarButtonItemC", "invocation"]
+- ["22IQKeyboardManagerSwift15IQBarButtonItemC", "isSystemItem"]
+- !private ["22IQKeyboardManagerSwift15IQBarButtonItemC", "setBackButtonBackgroundImage"]
+- !private ["22IQKeyboardManagerSwift15IQBarButtonItemC", "setBackButtonBackgroundVerticalPositionAdjustment"]
+- !private ["22IQKeyboardManagerSwift15IQBarButtonItemC", "setBackButtonTitlePositionAdjustment"]
+- !private ["22IQKeyboardManagerSwift15IQBarButtonItemC", "setBackgroundImage"]
+- !private ["22IQKeyboardManagerSwift15IQBarButtonItemC", "setBackgroundVerticalPositionAdjustment"]
+- ["22IQKeyboardManagerSwift15IQBarButtonItemC", "setTarget"]
+- !private ["22IQKeyboardManagerSwift15IQBarButtonItemC", "setTitlePositionAdjustment"]
+- !private ["22IQKeyboardManagerSwift15IQBarButtonItemC", "setTitleTextAttributes"]
+- !private ["22IQKeyboardManagerSwift15IQBarButtonItemC", "tintColor"]
+- !private ["So8NSCodingP", "IQBarButtonItem"]
+- !private ["So8NSCodingP", "State"]
+- !private ["So8NSCodingP", "UIOffset"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "_classInitialize"]
+- !private ["So8NSCodingP", "appearance"]
+- ["So8NSCodingP", "classInitialize"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "invocation"]
+- !private ["So8NSCodingP", "setBackButtonBackgroundImage"]
+- !private ["So8NSCodingP", "setBackButtonBackgroundVerticalPositionAdjustment"]
+- !private ["So8NSCodingP", "setBackButtonTitlePositionAdjustment"]
+- !private ["So8NSCodingP", "setBackgroundImage"]
+- !private ["So8NSCodingP", "setBackgroundVerticalPositionAdjustment"]
+- !private ["So8NSCodingP", "setTitlePositionAdjustment"]
+- !private ["So8NSCodingP", "setTitleTextAttributes"]
+- !private ["So8NSCodingP", "tintColor"]
+- ["So8NSObjectC", "AnyObject"]
+- !private ["So8NSObjectC", "IQBarButtonItem"]
+- ["So8NSObjectC", "NSCoder"]
+- ["So8NSObjectC", "Selector"]
+- !private ["So8NSObjectC", "State"]
+- !private ["So8NSObjectC", "UIControl"]
+- !private ["So8NSObjectC", "UIOffset"]
+- ["So8NSObjectC", "Void"]
+- ["So8NSObjectC", "_classInitialize"]
+- !private ["So8NSObjectC", "appearance"]
+- ["So8NSObjectC", "classInitialize"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "invocation"]
+- ["So8NSObjectC", "isSystemItem"]
+- !private ["So8NSObjectC", "setBackButtonBackgroundImage"]
+- !private ["So8NSObjectC", "setBackButtonBackgroundVerticalPositionAdjustment"]
+- !private ["So8NSObjectC", "setBackButtonTitlePositionAdjustment"]
+- !private ["So8NSObjectC", "setBackgroundImage"]
+- !private ["So8NSObjectC", "setBackgroundVerticalPositionAdjustment"]
+- ["So8NSObjectC", "setTarget"]
+- !private ["So8NSObjectC", "setTitlePositionAdjustment"]
+- !private ["So8NSObjectC", "setTitleTextAttributes"]
+- !private ["So8NSObjectC", "tintColor"]
+- !private ["So8NSObjectP", "IQBarButtonItem"]
+- !private ["So8NSObjectP", "State"]
+- !private ["So8NSObjectP", "UIOffset"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "_classInitialize"]
+- !private ["So8NSObjectP", "appearance"]
+- ["So8NSObjectP", "classInitialize"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "invocation"]
+- !private ["So8NSObjectP", "setBackButtonBackgroundImage"]
+- !private ["So8NSObjectP", "setBackButtonBackgroundVerticalPositionAdjustment"]
+- !private ["So8NSObjectP", "setBackButtonTitlePositionAdjustment"]
+- !private ["So8NSObjectP", "setBackgroundImage"]
+- !private ["So8NSObjectP", "setBackgroundVerticalPositionAdjustment"]
+- !private ["So8NSObjectP", "setTitlePositionAdjustment"]
+- !private ["So8NSObjectP", "setTitleTextAttributes"]
+- !private ["So8NSObjectP", "tintColor"]
+- !private ["s9OptionSetP", "application"]
+- !private ["s9OptionSetP", "disabled"]
+- !private ["s9OptionSetP", "highlighted"]
+- !private ["s9OptionSetP", "normal"]
+- !private ["s9OptionSetP", "reserved"]
+- !private ["s9OptionSetP", "selected"]
+- !private ["SY", "application"]
+- !private ["SY", "default"]
+- !private ["SY", "disabled"]
+- !private ["SY", "done"]
+- !private ["SY", "highlighted"]
+- !private ["SY", "normal"]
+- !private ["SY", "plain"]
+- !private ["SY", "reserved"]
+- !private ["SY", "selected"]
+- !private ["s10SetAlgebraP", "application"]
+- !private ["s10SetAlgebraP", "disabled"]
+- !private ["s10SetAlgebraP", "highlighted"]
+- !private ["s10SetAlgebraP", "normal"]
+- !private ["s10SetAlgebraP", "reserved"]
+- !private ["s10SetAlgebraP", "selected"]
+- !private ["So14UIControlStateV", "application"]
+- !private ["So14UIControlStateV", "disabled"]
+- !private ["So14UIControlStateV", "highlighted"]
+- !private ["So14UIControlStateV", "normal"]
+- !private ["So14UIControlStateV", "reserved"]
+- !private ["So14UIControlStateV", "selected"]
+- !private ["So20UIBarButtonItemStyleV", "done"]
+- !private ["So20UIBarButtonItemStyleV", "plain"]
+- !private ["So29UIAccessibilityIdentificationP", "IQBarButtonItem"]
+- !private ["So29UIAccessibilityIdentificationP", "State"]
+- !private ["So29UIAccessibilityIdentificationP", "UIOffset"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "_classInitialize"]
+- !private ["So29UIAccessibilityIdentificationP", "appearance"]
+- ["So29UIAccessibilityIdentificationP", "classInitialize"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "invocation"]
+- !private ["So29UIAccessibilityIdentificationP", "setBackButtonBackgroundImage"]
+- !private ["So29UIAccessibilityIdentificationP", "setBackButtonBackgroundVerticalPositionAdjustment"]
+- !private ["So29UIAccessibilityIdentificationP", "setBackButtonTitlePositionAdjustment"]
+- !private ["So29UIAccessibilityIdentificationP", "setBackgroundImage"]
+- !private ["So29UIAccessibilityIdentificationP", "setBackgroundVerticalPositionAdjustment"]
+- !private ["So29UIAccessibilityIdentificationP", "setTitlePositionAdjustment"]
+- !private ["So29UIAccessibilityIdentificationP", "setTitleTextAttributes"]
+- !private ["So29UIAccessibilityIdentificationP", "tintColor"]
+- !private ["So12UIAppearanceP", "IQBarButtonItem"]
+- !private ["So12UIAppearanceP", "State"]
+- !private ["So12UIAppearanceP", "UIOffset"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "_classInitialize"]
+- !private ["So12UIAppearanceP", "appearance"]
+- ["So12UIAppearanceP", "classInitialize"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "invocation"]
+- !private ["So12UIAppearanceP", "setBackButtonBackgroundImage"]
+- !private ["So12UIAppearanceP", "setBackButtonBackgroundVerticalPositionAdjustment"]
+- !private ["So12UIAppearanceP", "setBackButtonTitlePositionAdjustment"]
+- !private ["So12UIAppearanceP", "setBackgroundImage"]
+- !private ["So12UIAppearanceP", "setBackgroundVerticalPositionAdjustment"]
+- !private ["So12UIAppearanceP", "setTitlePositionAdjustment"]
+- !private ["So12UIAppearanceP", "setTitleTextAttributes"]
+- !private ["So12UIAppearanceP", "tintColor"]
+- !private ["So21UIAppearanceContainerP", "State"]
+- ["So15UIBarButtonItemC", "AnyObject"]
+- !private ["So15UIBarButtonItemC", "IQBarButtonItem"]
+- ["So15UIBarButtonItemC", "NSCoder"]
+- ["So15UIBarButtonItemC", "Selector"]
+- !private ["So15UIBarButtonItemC", "UIControl"]
+- !private ["So15UIBarButtonItemC", "UIOffset"]
+- ["So15UIBarButtonItemC", "Void"]
+- ["So15UIBarButtonItemC", ""]
+- ["So15UIBarButtonItemC", "_classInitialize"]
+- !private ["So15UIBarButtonItemC", "appearance"]
+- ["So15UIBarButtonItemC", "classInitialize"]
+- ["So15UIBarButtonItemC", "init"]
+- ["So15UIBarButtonItemC", "invocation"]
+- ["So15UIBarButtonItemC", "isSystemItem"]
+- !private ["So15UIBarButtonItemC", "setBackButtonBackgroundImage"]
+- !private ["So15UIBarButtonItemC", "setBackButtonBackgroundVerticalPositionAdjustment"]
+- !private ["So15UIBarButtonItemC", "setBackButtonTitlePositionAdjustment"]
+- !private ["So15UIBarButtonItemC", "setBackgroundImage"]
+- !private ["So15UIBarButtonItemC", "setBackgroundVerticalPositionAdjustment"]
+- ["So15UIBarButtonItemC", "setTarget"]
+- !private ["So15UIBarButtonItemC", "setTitlePositionAdjustment"]
+- !private ["So15UIBarButtonItemC", "setTitleTextAttributes"]
+- !private ["So15UIBarButtonItemC", "tintColor"]
+- ["So9UIBarItemC", "AnyObject"]
+- !private ["So9UIBarItemC", "IQBarButtonItem"]
+- ["So9UIBarItemC", "NSCoder"]
+- ["So9UIBarItemC", "Selector"]
+- !private ["So9UIBarItemC", "UIControl"]
+- !private ["So9UIBarItemC", "UIOffset"]
+- ["So9UIBarItemC", "Void"]
+- ["So9UIBarItemC", "_classInitialize"]
+- !private ["So9UIBarItemC", "appearance"]
+- ["So9UIBarItemC", "classInitialize"]
+- ["So9UIBarItemC", "init"]
+- ["So9UIBarItemC", "invocation"]
+- ["So9UIBarItemC", "isSystemItem"]
+- !private ["So9UIBarItemC", "setBackButtonBackgroundImage"]
+- !private ["So9UIBarItemC", "setBackButtonBackgroundVerticalPositionAdjustment"]
+- !private ["So9UIBarItemC", "setBackButtonTitlePositionAdjustment"]
+- !private ["So9UIBarItemC", "setBackgroundImage"]
+- !private ["So9UIBarItemC", "setBackgroundVerticalPositionAdjustment"]
+- ["So9UIBarItemC", "setTarget"]
+- !private ["So9UIBarItemC", "setTitlePositionAdjustment"]
+- !private ["So9UIBarItemC", "setTitleTextAttributes"]
+- !private ["So9UIBarItemC", "tintColor"]
+- !private ["So12UIBarMetricsV", "default"]
+- !private ["So9UIControlC", "State"]
+- !private ["So17UICoordinateSpaceP", "State"]
+- !private ["So13UIDynamicItemP", "State"]
+- !private ["So18UIFocusEnvironmentP", "State"]
+- !private ["So11UIFocusItemP", "State"]
+- !private ["So20UIFocusItemContainerP", "State"]
+- !private ["So24UILargeContentViewerItemP", "State"]
+- !private ["So8UIOffsetV", "zero"]
+- !private ["So30UIPasteConfigurationSupportingP", "State"]
+- !private ["So11UIResponderC", "State"]
+- !private ["So30UIResponderStandardEditActionsP", "State"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "IQBarButtonItem"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "UIOffset"]
+- ["So35UISpringLoadedInteractionSupportingP", ""]
+- !private ["So35UISpringLoadedInteractionSupportingP", "_classInitialize"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "appearance"]
+- ["So35UISpringLoadedInteractionSupportingP", "classInitialize"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "invocation"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "setBackButtonBackgroundImage"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "setBackButtonBackgroundVerticalPositionAdjustment"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "setBackButtonTitlePositionAdjustment"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "setBackgroundImage"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "setBackgroundVerticalPositionAdjustment"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "setTitlePositionAdjustment"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "setTitleTextAttributes"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "tintColor"]
+- !private ["So18UITraitEnvironmentP", "State"]
+- !private ["So23UIUserActivityRestoringP", "State"]
+- !private ["So6UIViewC", "State"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "IQBarButtonItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "State"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIOffset"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "_classInitialize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "appearance"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "classInitialize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "invocation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setBackButtonBackgroundImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setBackButtonBackgroundVerticalPositionAdjustment"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setBackButtonTitlePositionAdjustment"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setBackgroundImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setBackgroundVerticalPositionAdjustment"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setTitlePositionAdjustment"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setTitleTextAttributes"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tintColor"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "IQBarButtonItem"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "State"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIOffset"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "_classInitialize"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "appearance"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "classInitialize"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "invocation"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setBackButtonBackgroundImage"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setBackButtonBackgroundVerticalPositionAdjustment"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setBackButtonTitlePositionAdjustment"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setBackgroundImage"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setBackgroundVerticalPositionAdjustment"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setTitlePositionAdjustment"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setTitleTextAttributes"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "tintColor"]
+- !private ["s21_ObjectiveCBridgeableP", "zero"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "State"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "SH"
+- "22IQKeyboardManagerSwift15IQBarButtonItemC"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "s9OptionSetP"
+- !private "SY"
+- !private "s10SetAlgebraP"
+- !private "So14UIControlStateV"
+- !private "So20UIBarButtonItemStyleV"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- "So15UIBarButtonItemC"
+- "So9UIBarItemC"
+- !private "So12UIBarMetricsV"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So24UILargeContentViewerItemP"
+- !private "So8UIOffsetV"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- "So35UISpringLoadedInteractionSupportingP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Target Support Files/IQKeyboardManagerSwift/IQKeyboardManagerSwift-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "7f8209851c523ae6d7e4f0b8785d027c"

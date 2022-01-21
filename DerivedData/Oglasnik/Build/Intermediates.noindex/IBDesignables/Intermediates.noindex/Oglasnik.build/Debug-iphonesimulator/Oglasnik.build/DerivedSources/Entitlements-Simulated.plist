@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>3S74BK9JUN.com.bignerdranch.Oglasnik</string>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>webcredentials:https://bilbord.mk/api.php?key=3g5fg3f5gf2h32k2j&amp;function=login</string>
+	</array>
+</dict>
+</plist>

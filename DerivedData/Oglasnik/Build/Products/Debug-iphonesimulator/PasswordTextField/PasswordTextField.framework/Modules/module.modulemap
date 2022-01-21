@@ -1,0 +1,11 @@
+framework module PasswordTextField {
+  umbrella header "PasswordTextField-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module PasswordTextField.Swift {
+    header "PasswordTextField-Swift.h"
+    requires objc
+}

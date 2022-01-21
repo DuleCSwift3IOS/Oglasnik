@@ -1,0 +1,225 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DetailInfos"
+provides-nominal:
+- "8Oglasnik11DetailInfosV"
+provides-member:
+- ["8Oglasnik11DetailInfosV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "<-"
+- "DetailInfos"
+- "Map"
+- "Mappable"
+- "String"
+- !private "StringLiteralType"
+depends-member:
+- ["12ObjectMapper12BaseMappableP", ""]
+- !private ["12ObjectMapper12BaseMappableP", "adTypeName"]
+- !private ["12ObjectMapper12BaseMappableP", "areaName"]
+- !private ["12ObjectMapper12BaseMappableP", "begin"]
+- !private ["12ObjectMapper12BaseMappableP", "brandModelName"]
+- !private ["12ObjectMapper12BaseMappableP", "brandName"]
+- !private ["12ObjectMapper12BaseMappableP", "categoryName"]
+- !private ["12ObjectMapper12BaseMappableP", "colorName"]
+- !private ["12ObjectMapper12BaseMappableP", "consumptionInL"]
+- !private ["12ObjectMapper12BaseMappableP", "date_update"]
+- !private ["12ObjectMapper12BaseMappableP", "description"]
+- !private ["12ObjectMapper12BaseMappableP", "end"]
+- !private ["12ObjectMapper12BaseMappableP", "expired"]
+- !private ["12ObjectMapper12BaseMappableP", "favorite"]
+- !private ["12ObjectMapper12BaseMappableP", "fbEvent"]
+- !private ["12ObjectMapper12BaseMappableP", "floor"]
+- !private ["12ObjectMapper12BaseMappableP", "fuelName"]
+- !private ["12ObjectMapper12BaseMappableP", "fullName"]
+- !private ["12ObjectMapper12BaseMappableP", "gearBox"]
+- !private ["12ObjectMapper12BaseMappableP", "id_Ad"]
+- !private ["12ObjectMapper12BaseMappableP", "images"]
+- ["12ObjectMapper12BaseMappableP", "init"]
+- !private ["12ObjectMapper12BaseMappableP", "local"]
+- !private ["12ObjectMapper12BaseMappableP", "location_name"]
+- ["12ObjectMapper12BaseMappableP", "mapping"]
+- !private ["12ObjectMapper12BaseMappableP", "modelName"]
+- !private ["12ObjectMapper12BaseMappableP", "numberOfFloors"]
+- !private ["12ObjectMapper12BaseMappableP", "numberOfRooms"]
+- !private ["12ObjectMapper12BaseMappableP", "phoneNumber"]
+- !private ["12ObjectMapper12BaseMappableP", "price"]
+- !private ["12ObjectMapper12BaseMappableP", "region"]
+- !private ["12ObjectMapper12BaseMappableP", "spentMails"]
+- !private ["12ObjectMapper12BaseMappableP", "titleOfAdvertisment"]
+- !private ["12ObjectMapper12BaseMappableP", "userEmail"]
+- !private ["12ObjectMapper12BaseMappableP", "userFB"]
+- !private ["12ObjectMapper12BaseMappableP", "valute"]
+- !private ["12ObjectMapper12BaseMappableP", "video"]
+- !private ["12ObjectMapper12BaseMappableP", "yearOfProductName"]
+- ["8Oglasnik11DetailInfosV", "Map"]
+- ["8Oglasnik11DetailInfosV", "String"]
+- ["8Oglasnik11DetailInfosV", "adTypeName"]
+- ["8Oglasnik11DetailInfosV", "areaName"]
+- ["8Oglasnik11DetailInfosV", "begin"]
+- ["8Oglasnik11DetailInfosV", "brandModelName"]
+- ["8Oglasnik11DetailInfosV", "brandName"]
+- ["8Oglasnik11DetailInfosV", "categoryName"]
+- ["8Oglasnik11DetailInfosV", "colorName"]
+- ["8Oglasnik11DetailInfosV", "consumptionInL"]
+- ["8Oglasnik11DetailInfosV", "date_update"]
+- ["8Oglasnik11DetailInfosV", "deinit"]
+- ["8Oglasnik11DetailInfosV", "description"]
+- ["8Oglasnik11DetailInfosV", "end"]
+- ["8Oglasnik11DetailInfosV", "expired"]
+- ["8Oglasnik11DetailInfosV", "favorite"]
+- ["8Oglasnik11DetailInfosV", "fbEvent"]
+- ["8Oglasnik11DetailInfosV", "floor"]
+- ["8Oglasnik11DetailInfosV", "fuelName"]
+- ["8Oglasnik11DetailInfosV", "fullName"]
+- ["8Oglasnik11DetailInfosV", "gearBox"]
+- ["8Oglasnik11DetailInfosV", "id_Ad"]
+- ["8Oglasnik11DetailInfosV", "images"]
+- ["8Oglasnik11DetailInfosV", "init"]
+- ["8Oglasnik11DetailInfosV", "local"]
+- ["8Oglasnik11DetailInfosV", "location_name"]
+- ["8Oglasnik11DetailInfosV", "mapping"]
+- ["8Oglasnik11DetailInfosV", "modelName"]
+- ["8Oglasnik11DetailInfosV", "numberOfFloors"]
+- ["8Oglasnik11DetailInfosV", "numberOfRooms"]
+- ["8Oglasnik11DetailInfosV", "phoneNumber"]
+- ["8Oglasnik11DetailInfosV", "price"]
+- ["8Oglasnik11DetailInfosV", "region"]
+- ["8Oglasnik11DetailInfosV", "spentMails"]
+- ["8Oglasnik11DetailInfosV", "titleOfAdvertisment"]
+- ["8Oglasnik11DetailInfosV", "userEmail"]
+- ["8Oglasnik11DetailInfosV", "userFB"]
+- ["8Oglasnik11DetailInfosV", "valute"]
+- ["8Oglasnik11DetailInfosV", "video"]
+- ["8Oglasnik11DetailInfosV", "yearOfProductName"]
+- !private ["12ObjectMapper3MapC", "subscript"]
+- ["12ObjectMapper8MappableP", ""]
+- !private ["12ObjectMapper8MappableP", "adTypeName"]
+- !private ["12ObjectMapper8MappableP", "areaName"]
+- !private ["12ObjectMapper8MappableP", "begin"]
+- !private ["12ObjectMapper8MappableP", "brandModelName"]
+- !private ["12ObjectMapper8MappableP", "brandName"]
+- !private ["12ObjectMapper8MappableP", "categoryName"]
+- !private ["12ObjectMapper8MappableP", "colorName"]
+- !private ["12ObjectMapper8MappableP", "consumptionInL"]
+- !private ["12ObjectMapper8MappableP", "date_update"]
+- !private ["12ObjectMapper8MappableP", "description"]
+- !private ["12ObjectMapper8MappableP", "end"]
+- !private ["12ObjectMapper8MappableP", "expired"]
+- !private ["12ObjectMapper8MappableP", "favorite"]
+- !private ["12ObjectMapper8MappableP", "fbEvent"]
+- !private ["12ObjectMapper8MappableP", "floor"]
+- !private ["12ObjectMapper8MappableP", "fuelName"]
+- !private ["12ObjectMapper8MappableP", "fullName"]
+- !private ["12ObjectMapper8MappableP", "gearBox"]
+- !private ["12ObjectMapper8MappableP", "id_Ad"]
+- !private ["12ObjectMapper8MappableP", "images"]
+- ["12ObjectMapper8MappableP", "init"]
+- !private ["12ObjectMapper8MappableP", "local"]
+- !private ["12ObjectMapper8MappableP", "location_name"]
+- ["12ObjectMapper8MappableP", "mapping"]
+- !private ["12ObjectMapper8MappableP", "modelName"]
+- !private ["12ObjectMapper8MappableP", "numberOfFloors"]
+- !private ["12ObjectMapper8MappableP", "numberOfRooms"]
+- !private ["12ObjectMapper8MappableP", "phoneNumber"]
+- !private ["12ObjectMapper8MappableP", "price"]
+- !private ["12ObjectMapper8MappableP", "region"]
+- !private ["12ObjectMapper8MappableP", "spentMails"]
+- !private ["12ObjectMapper8MappableP", "titleOfAdvertisment"]
+- !private ["12ObjectMapper8MappableP", "userEmail"]
+- !private ["12ObjectMapper8MappableP", "userFB"]
+- !private ["12ObjectMapper8MappableP", "valute"]
+- !private ["12ObjectMapper8MappableP", "video"]
+- !private ["12ObjectMapper8MappableP", "yearOfProductName"]
+depends-nominal:
+- "12ObjectMapper12BaseMappableP"
+- "8Oglasnik11DetailInfosV"
+- !private "12ObjectMapper3MapC"
+- "12ObjectMapper8MappableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreData.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Accelerate.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Modules/PasswordTextField.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Modules/SkyFloatingLabelTextField.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules/AlamofireImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SMIconLabel/SMIconLabel.framework/Modules/SMIconLabel.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Modules/ObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Modules/AlamofireObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Modules/IQKeyboardManagerSwift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Headers/PasswordTextField-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Headers/SkyFloatingLabelTextField-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SMIconLabel/SMIconLabel.framework/Headers/SMIconLabel-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/DLRadioButton/DLRadioButton.framework/Headers/DLRadioButton-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/KIImagePager/KIImagePager.framework/Headers/KIImagePager-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Headers/ObjectMapper-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMCheckBox-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Headers/PasswordTextField.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/DLRadioButton/DLRadioButton.framework/Headers/DLRadioButton.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMCheckBoxGroup.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Oglasnik/MySideMenu/Oglasnik-Bridging-Header.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/KIImagePager/KIImagePager.framework/Headers/KIImagePager.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMPathManager.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMAnimationManager.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Oglasnik/MySideMenu/MMDrawerController.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Headers/PasswordTextField-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Headers/SkyFloatingLabelTextField-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SMIconLabel/SMIconLabel.framework/Headers/SMIconLabel-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Headers/ObjectMapper-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Headers/AlamofireObjectMapper-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-Swift.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Headers/BEMCheckBox.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/PasswordTextField/PasswordTextField.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/SMIconLabel/SMIconLabel.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/DLRadioButton/DLRadioButton.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/KIImagePager/KIImagePager.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/AlamofireObjectMapper/AlamofireObjectMapper.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Modules/module.modulemap"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Products/Debug-iphonesimulator/BEMCheckBox/BEMCheckBox.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "50d5798cd9a9e1d107b423695d754e27"

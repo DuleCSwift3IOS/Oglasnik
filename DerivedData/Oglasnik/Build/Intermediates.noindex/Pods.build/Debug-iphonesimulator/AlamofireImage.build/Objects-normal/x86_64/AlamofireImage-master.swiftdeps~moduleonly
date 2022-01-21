@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "078eaf2d1e70149f739d480ecec24b5f"
+build_time: [1642713464, 966621000]
+inputs:
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/AlamofireImage/Source/AFIError.swift": [1547757319, 0]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/AlamofireImage/Source/Image.swift": [1547757319, 0]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/AlamofireImage/Source/ImageCache.swift": [1580478269, 3239408]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/AlamofireImage/Source/ImageDownloader.swift": [1580478242, 378593895]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/AlamofireImage/Source/ImageFilter.swift": [1547757319, 0]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1547757319, 0]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1580478242, 363384308]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1580478242, 303224495]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1580482984, 379376659]

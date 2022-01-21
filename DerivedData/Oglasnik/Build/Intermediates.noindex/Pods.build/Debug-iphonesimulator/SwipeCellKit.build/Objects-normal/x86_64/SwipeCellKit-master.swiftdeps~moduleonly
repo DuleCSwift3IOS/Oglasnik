@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "efd179a4e6eac623b97dc2ca2fbf0a2d"
+build_time: [1642723514, 880330000]
+inputs:
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SwipeCellKit/Source/Extensions.swift": [1510439428, 0]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SwipeCellKit/Source/Swipeable.swift": [1510439428, 0]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SwipeCellKit/Source/SwipeAction.swift": [1510439428, 0]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SwipeCellKit/Source/SwipeActionButton.swift": [1580477864, 131958083]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SwipeCellKit/Source/SwipeActionsView.swift": [1510439428, 0]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SwipeCellKit/Source/SwipeActionTransitioning.swift": [1510439428, 0]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SwipeCellKit/Source/SwipeAnimator.swift": [1510439428, 0]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SwipeCellKit/Source/SwipeExpanding.swift": [1510439428, 0]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SwipeCellKit/Source/SwipeExpansionStyle.swift": [1510439428, 0]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SwipeCellKit/Source/SwipeFeedback.swift": [1510439428, 0]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SwipeCellKit/Source/SwipeTableOptions.swift": [1510439428, 0]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SwipeCellKit/Source/SwipeTableViewCell+Accessibility.swift": [1510439428, 0]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SwipeCellKit/Source/SwipeTableViewCell+Display.swift": [1510439428, 0]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SwipeCellKit/Source/SwipeTableViewCell.swift": [1580477908, 707250289]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SwipeCellKit/Source/SwipeTableViewCellDelegate.swift": [1510439428, 0]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SwipeCellKit/Source/SwipeTransitionLayout.swift": [1510439428, 0]

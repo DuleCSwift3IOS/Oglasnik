@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "cc8c0fce857a783c73d98a1202ca1d93"
+build_time: [1617137000, 30550000]
+inputs:
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SkyFloatingLabelTextField/Sources/SkyFloatingLabelTextField.swift": [1580476536, 868089060]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SkyFloatingLabelTextField/Sources/SkyFloatingLabelTextFieldWithIcon.swift": [1532488546, 0]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SkyFloatingLabelTextField/Sources/UITextField+fixCaretPosition.swift": [1532487219, 0]

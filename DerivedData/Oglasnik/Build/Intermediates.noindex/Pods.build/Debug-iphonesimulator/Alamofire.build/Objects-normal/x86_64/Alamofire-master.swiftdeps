@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "58f8167fed2b7909fd97ba911891d87b"
+build_time: [1642723506, 530911000]
+inputs:
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Alamofire/Source/AFError.swift": [1580482900, 933248311]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Alamofire/Source/Alamofire.swift": [1580482900, 935301651]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1580482900, 929388277]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Alamofire/Source/MultipartFormData.swift": [1580482900, 928567027]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1580482900, 928900540]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Alamofire/Source/Notifications.swift": [1580482900, 933879447]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Alamofire/Source/ParameterEncoding.swift": [1580482900, 930433370]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Alamofire/Source/Request.swift": [1580482900, 935668575]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Alamofire/Source/Response.swift": [1580482900, 934824164]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Alamofire/Source/ResponseSerialization.swift": [1580482900, 936654190]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Alamofire/Source/Result.swift": [1580482900, 929609128]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1580482900, 936967732]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Alamofire/Source/SessionDelegate.swift": [1580482900, 937359854]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Alamofire/Source/SessionManager.swift": [1580482900, 936105785]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Alamofire/Source/TaskDelegate.swift": [1580482900, 928182370]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Alamofire/Source/Timeline.swift": [1580482900, 929151195]
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Alamofire/Source/Validation.swift": [1580482900, 933576387]

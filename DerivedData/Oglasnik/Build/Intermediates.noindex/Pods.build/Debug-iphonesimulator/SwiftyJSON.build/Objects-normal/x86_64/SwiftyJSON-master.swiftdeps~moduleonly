@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "298d9c6dd66d947e31be3689fd81be1d"
+build_time: [1642723514, 875150000]
+inputs:
+  "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1510180877, 0]

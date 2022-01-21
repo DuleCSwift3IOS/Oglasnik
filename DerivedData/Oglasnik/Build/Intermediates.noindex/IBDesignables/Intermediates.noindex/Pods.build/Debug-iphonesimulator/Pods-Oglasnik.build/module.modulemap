@@ -1,0 +1,6 @@
+framework module Pods_Oglasnik {
+  umbrella header "Pods-Oglasnik-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,253 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Swipeable"
+- "SwipeState"
+provides-nominal:
+- "12SwipeCellKit9SwipeableP"
+- "12SwipeCellKit0a9TableViewB0C"
+- "12SwipeCellKit0A5StateO"
+provides-member:
+- ["12SwipeCellKit9SwipeableP", ""]
+- ["12SwipeCellKit0a9TableViewB0C", ""]
+- ["12SwipeCellKit0A5StateO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- "=="
+- "AssignmentPrecedence"
+- "Bool"
+- "CGRect"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "SwipeActionsOrientation"
+- "SwipeActionsView"
+- "SwipeState"
+- "SwipeTableViewCell"
+- "Swipeable"
+- "TernaryPrecedence"
+- !private "~="
+depends-member:
+- ["So15CALayerDelegateP", "actionsView"]
+- ["So15CALayerDelegateP", "frame"]
+- ["So15CALayerDelegateP", "state"]
+- ["s7CVarArgP", "actionsView"]
+- ["s7CVarArgP", "frame"]
+- ["s7CVarArgP", "state"]
+- ["s28CustomDebugStringConvertibleP", "actionsView"]
+- ["s28CustomDebugStringConvertibleP", "frame"]
+- ["s28CustomDebugStringConvertibleP", "state"]
+- ["s23CustomStringConvertibleP", "actionsView"]
+- ["s23CustomStringConvertibleP", "frame"]
+- ["s23CustomStringConvertibleP", "state"]
+- ["SQ", "=="]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "actionsView"]
+- !private ["SQ", "center"]
+- ["SQ", "frame"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- !private ["SQ", "left"]
+- ["SQ", "rawValue"]
+- !private ["SQ", "right"]
+- ["SQ", "state"]
+- ["SH", "=="]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- ["SH", "_rawHashValue"]
+- ["SH", "actionsView"]
+- !private ["SH", "center"]
+- ["SH", "frame"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- !private ["SH", "left"]
+- ["SH", "rawValue"]
+- !private ["SH", "right"]
+- ["SH", "state"]
+- ["So8NSCodingP", "actionsView"]
+- ["So8NSCodingP", "frame"]
+- ["So8NSCodingP", "state"]
+- ["So8NSObjectC", "actionsView"]
+- ["So8NSObjectC", "frame"]
+- ["So8NSObjectC", "state"]
+- ["So8NSObjectP", "actionsView"]
+- ["So8NSObjectP", "frame"]
+- ["So8NSObjectP", "state"]
+- ["SY", "=="]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- ["SY", "_rawHashValue"]
+- !private ["SY", "center"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- !private ["SY", "left"]
+- ["SY", "rawValue"]
+- !private ["SY", "right"]
+- !private ["12SwipeCellKit0A18ActionsOrientationO", "deinit"]
+- !private ["12SwipeCellKit0A18ActionsOrientationO", "left"]
+- ["12SwipeCellKit0A19ActionsViewDelegateP", "actionsView"]
+- ["12SwipeCellKit0A19ActionsViewDelegateP", "frame"]
+- ["12SwipeCellKit0A19ActionsViewDelegateP", "state"]
+- ["12SwipeCellKit0A5StateO", "=="]
+- ["12SwipeCellKit0A5StateO", "Bool"]
+- ["12SwipeCellKit0A5StateO", "RawValue"]
+- ["12SwipeCellKit0A5StateO", "SwipeActionsOrientation"]
+- ["12SwipeCellKit0A5StateO", "_Default_RawValue"]
+- ["12SwipeCellKit0A5StateO", "_rawHashValue"]
+- ["12SwipeCellKit0A5StateO", "animatingToCenter"]
+- ["12SwipeCellKit0A5StateO", "center"]
+- ["12SwipeCellKit0A5StateO", "deinit"]
+- ["12SwipeCellKit0A5StateO", "dragging"]
+- ["12SwipeCellKit0A5StateO", "hash"]
+- ["12SwipeCellKit0A5StateO", "hashValue"]
+- ["12SwipeCellKit0A5StateO", "init"]
+- ["12SwipeCellKit0A5StateO", "isActive"]
+- ["12SwipeCellKit0A5StateO", "left"]
+- ["12SwipeCellKit0A5StateO", "rawValue"]
+- ["12SwipeCellKit0A5StateO", "right"]
+- ["12SwipeCellKit0a9TableViewB0C", "actionsView"]
+- ["12SwipeCellKit0a9TableViewB0C", "deinit"]
+- ["12SwipeCellKit0a9TableViewB0C", "frame"]
+- ["12SwipeCellKit0a9TableViewB0C", "state"]
+- ["12SwipeCellKit9SwipeableP", "CGRect"]
+- ["12SwipeCellKit9SwipeableP", "SwipeActionsView"]
+- ["12SwipeCellKit9SwipeableP", "SwipeState"]
+- ["12SwipeCellKit9SwipeableP", ""]
+- ["12SwipeCellKit9SwipeableP", "actionsView"]
+- ["12SwipeCellKit9SwipeableP", "frame"]
+- ["12SwipeCellKit9SwipeableP", "state"]
+- ["So29UIAccessibilityIdentificationP", "actionsView"]
+- ["So29UIAccessibilityIdentificationP", "frame"]
+- ["So29UIAccessibilityIdentificationP", "state"]
+- ["So12UIAppearanceP", "actionsView"]
+- ["So12UIAppearanceP", "frame"]
+- ["So12UIAppearanceP", "state"]
+- ["So21UIAppearanceContainerP", "actionsView"]
+- ["So21UIAppearanceContainerP", "frame"]
+- ["So21UIAppearanceContainerP", "state"]
+- ["So17UICoordinateSpaceP", "actionsView"]
+- ["So17UICoordinateSpaceP", "frame"]
+- ["So17UICoordinateSpaceP", "state"]
+- ["So13UIDynamicItemP", "actionsView"]
+- ["So13UIDynamicItemP", "frame"]
+- ["So13UIDynamicItemP", "state"]
+- ["So18UIFocusEnvironmentP", "actionsView"]
+- ["So18UIFocusEnvironmentP", "frame"]
+- ["So18UIFocusEnvironmentP", "state"]
+- ["So11UIFocusItemP", "actionsView"]
+- ["So11UIFocusItemP", "frame"]
+- ["So11UIFocusItemP", "state"]
+- ["So20UIFocusItemContainerP", "actionsView"]
+- ["So20UIFocusItemContainerP", "frame"]
+- ["So20UIFocusItemContainerP", "state"]
+- ["So27UIGestureRecognizerDelegateP", "actionsView"]
+- ["So27UIGestureRecognizerDelegateP", "frame"]
+- ["So27UIGestureRecognizerDelegateP", "state"]
+- ["So24UILargeContentViewerItemP", "actionsView"]
+- ["So24UILargeContentViewerItemP", "frame"]
+- ["So24UILargeContentViewerItemP", "state"]
+- ["So30UIPasteConfigurationSupportingP", "actionsView"]
+- ["So30UIPasteConfigurationSupportingP", "frame"]
+- ["So30UIPasteConfigurationSupportingP", "state"]
+- ["So11UIResponderC", "actionsView"]
+- ["So11UIResponderC", "frame"]
+- ["So11UIResponderC", "state"]
+- ["So30UIResponderStandardEditActionsP", "actionsView"]
+- ["So30UIResponderStandardEditActionsP", "frame"]
+- ["So30UIResponderStandardEditActionsP", "state"]
+- ["So15UITableViewCellC", "actionsView"]
+- ["So15UITableViewCellC", "frame"]
+- ["So15UITableViewCellC", "state"]
+- ["So18UITraitEnvironmentP", "actionsView"]
+- ["So18UITraitEnvironmentP", "frame"]
+- ["So18UITraitEnvironmentP", "state"]
+- ["So23UIUserActivityRestoringP", "actionsView"]
+- ["So23UIUserActivityRestoringP", "frame"]
+- ["So23UIUserActivityRestoringP", "state"]
+- ["So6UIViewC", "actionsView"]
+- ["So6UIViewC", "frame"]
+- ["So6UIViewC", "state"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "actionsView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "state"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "actionsView"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "frame"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "state"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "actionsView"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "frame"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "state"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "SY"
+- !private "12SwipeCellKit0A18ActionsOrientationO"
+- "12SwipeCellKit0A19ActionsViewDelegateP"
+- "12SwipeCellKit0A5StateO"
+- "12SwipeCellKit0a9TableViewB0C"
+- "12SwipeCellKit9SwipeableP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So27UIGestureRecognizerDelegateP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So15UITableViewCellC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/Pods/Target Support Files/SwipeCellKit/SwipeCellKit-umbrella.h"
+- "/Users/dushkocizaloski/iCloud Drive (Archive) - 1/iCloud Drive (Archive) - 1/Desktop/Practice_Project_2017/Oglasnik/DerivedData/Oglasnik/Build/Intermediates.noindex/IBDesignables/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwipeCellKit.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "e997eba0cff08ea52bc08d8ba5c98e96"

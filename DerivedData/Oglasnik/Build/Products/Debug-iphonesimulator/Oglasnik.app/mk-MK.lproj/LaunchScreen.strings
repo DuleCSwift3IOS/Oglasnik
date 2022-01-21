@@ -1,0 +1,115 @@
+//MARK: - AddNewAdsViewController
+"Title of advertisment" = "Наслов за огласот";
+"Categories" = "Категорија";
+"AdType" = "Тип на оглас";
+"BrandModel" = "Модел";
+"Fuel" = "Гориво";
+"Color" = "Боја";
+"Consumption of L/100km" = "Потрошувачка на Л/100км";
+"Year of product" = "Година на производство"
+"Spent mails" = "Поминати километри";
+"Gearbox" = "Менувач";
+"Area" = "Простор";
+"Number of Rooms" = "Број на соби";
+"Floor" = "Спрат";
+"Settlement" = "Населба";
+"Number of Floors" = "Број на спратови";
+"Local" = "Локал";
+"Begin" = "Почеток";
+"End" = "Крај";
+"FB Event" = "ФБ Настан";
+"Price" = "Цена";
+"Valute" = "Валута";
+"Attach a photo our recommendation is to attach at least 3 images for the advertisment to get a more appeling look" = "Прикачи слика. Наша препорака е да прикачите 3 слики за настанот да добие попримамлив изглед.";
+"Description" = "Опис";
+"Choose Image" = "Избери слика";
+"Quantity" = "Количина";
+"Old/New" = "Старо/Ново";
+"Region" = "Регион";
+"Video" = "Видео";
+"FullName" = "Име и Презиме";
+"Phone number" = "Телефонски број";
+"User Emails" = "Кориснички емаил";
+"Your facebook link" = "Ваш фајсбук линк";
+"I agree with the" = "Се сложувам со";
+"terms of use" = "условите за користење";
+//Contact us
+"Contact Us" = "Исконтактирајте не";
+"Contact us and we will answer you as soon as we can" = "Исконтактирајте не и ние ке ви одговориме што е можно побрзо";
+"Enter your message to us" = "Внесете ја вашата порака до нас";
+"Sent" = "Испрати";
+//MARK: - MenuViewController
+"Publish Ad" = "Објави оглас";
+"Autos" = "Возила";
+"Mobiles" = "Мобилни";
+"Electronics" = "Електроника";
+"Real Estates" = "Недвижнини";
+"Pets" = "Миленичиња";
+"Jobs" = "Работа";
+"Events" = "Настани";
+"All Ads" = "Сите Огласи";
+//MARK: - LoginFormViewController
+"USER ACCOUNT" = "Корисничка сметка";
+"Username" = "Е-маил";
+"Password" = "Лозинка";
+"Login" = "Најави се";
+"Please make registration here!" = "Ве молиме регистрирај се тука";
+"Forgotten Password" = "Заборавена лозинка";
+//MARK: - ForgotPasswordViewController
+"Forgot Password" = "Заборавена лозинка";
+"Send" = "Најави се";
+//MARK: - RegistrationFormViewController
+"MAKE REGISTRATION" = "Направете Регистрација";
+"First Name" = "Име";
+"Phone" = "Телефон";
+"Mail" = "Е-Маил";
+"Password" = "Лозинка";
+"Confirm Password" = "Потврди Лозинка";
+"Cities" = "Градови";
+"Registration" = "Регистрација";
+//MARK: - EventsViewController
+"Title" = "Наслов";
+"Start for" = "Започнува на";
+"Date" = "Датум";
+"Place" = "Место";
+//MARK: - NotificationViewController
+"Title" = "Наслов";
+"Description" = "Опис";
+//ContactXibFile
+"Contact" = "Контакт";
+"Email" = "Е-маил";
+"Message" = "Порака";
+"Send Message" = "Испрати Порака";
+//MARK: - ChagePasswordViewController
+"Old password" = "Стара лозинка";
+"New password" = "Нова лозинка";
+"Confirm password" = "Потврди лозинка";
+"Change" = "Промени";
+//MARK: - DetailViewController
+"Categories" = "Категорија";
+"Ad Type" = "Додади Оглас";
+"Brand Model" = "Модел";
+"Fuel" = "Гориво";
+"Color" = "Боја";
+"Consumption" = "Потрошувачка";
+"Year Of Product" = "Година на производство";
+"Spent Mails" = "Поминати километри";
+"GearBox" = "Менувач";
+"Area" = "Простор";
+"Number Of Rooms" = "Број на соби";
+"Floor" = "Спрат";
+"Settlement" = "Населба";
+"Number Of Floors" = "Број на спратови";
+"Local" = "Локал";
+"Begin" = "Почеток";
+"End" = "Крај";
+"FB Event" = "ФБ настан";
+"Price" = "Цена";
+"Quantity" = "Количина";
+"Old/New" = "Старо/Ново";
+"Region" = "Регион";
+"Video" = "Видео";
+"FullName" = "Име и Презиме";
+"Phone Number" = "Телефонски број";
+"User Email" = "Кориснички Е-Маил";
+"Detail" = "Детали";
